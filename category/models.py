@@ -8,8 +8,10 @@ class Category(models.Model):
     category_name = models.CharField(max_length=100, unique=True)
     # As the slugs need to be auto generated, used slug field without using CharField to slug.
     slug = models.SlugField(max_length=100, unique=True)
-    description = models.TextField(max_length=255, blank=True)
+    description = models.TextField(max_length=2000, blank=True)
     cat_image = models.ImageField(upload_to='photos/categories', blank=True)
+    parent_category = models.ForeignKey(
+        'self', on_delete=models.CASCADE, blank=True, null=True, related_name='subcategories')
 
 # Django will automatically add 's' for the name to make it plural. To stop that This is used
     class Meta:
