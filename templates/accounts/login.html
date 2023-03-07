@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+    <!-- ========================= SECTION CONTENT ========================= -->
+    <section class="section-conten padding-y" style="min-height:84vh">
+
+    {% if request.GET.command == 'verification' %}
+
+    <div class="container mx-auto text-center" style="max-width: 500px; margin-top: 100px;">
+        <div class="alert alert-info p-5 rounded-lg" role="alert">
+          <i class="fas fa-smile fa-3x mb-4 text-primary icon-transition"></i>
+          <h4 class="alert-heading mb-4">Welcome to Chill Dressing!</h4>
+          <p class="mb-4">We're thrilled that you've decided to join our chill community of fashion lovers.</p>
+          <p>To complete your registration, we just need to verify your email address.</p>
+          <p>Don't worry, it's easy - just check your <strong>{{ request.GET.email }}</strong> email inbox and follow the instructions in the email we've sent you.</p>
+          <p>If you don't see the email, be sure to check your spam folder just in case. And if you have any trouble, don't hesitate to hit us up - our chill support team is here to help.</p>
+          <hr class="my-4">
+          <p class="mb-0">Thanks for choosing Chill Dressing - we can't wait to help you look your best!</p>
+        </div>
+        <p class="mt-5">Already verified? <a href="{% url 'login' %}" class="btn btn-lg btn-outline-primary rounded-pill px-4 py-2 hover-effect">Login</a></p>
+      </div>
+      
+      
+    
+    {% else %}
+
+        <!-- ============================ COMPONENT LOGIN   ================================= -->
+        <div class="card mx-auto" style="max-width: 380px; margin-top:100px;">
+            <div class="card-body">
+                <h4 class="card-title mb-4">Sign in</h4>
+                {% include 'includes/alerts.html' %}
+                <form action="{% url 'login' %}" method="POST">
+                {% csrf_token %}
+                    <div class="form-group">
+                        <input type="email" class="form-control" placeholder="Email Address" name="email">
+                    </div>
+                    <div class="form-group">
+                        <input type="password" class="form-control" placeholder="Password" name="password">
+                    </div>
+                    
+                    <div class="form-group">
+                        <a href="{% url 'forgotPassword' %}" class="float-right">Forgot password?</a> 
+                    
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary btn-block"> Login  </button>
+                    </div>    
+                </form>
+            </div>
+        </div>
+
+        <p class="text-center mt-4">Don't have account? <a href="{% url 'register' %}">Sign up</a></p>
+        <br><br>
+        <!-- ============================ COMPONENT LOGIN  END.// ================================= -->
+
+
+    {% endif %}
+    
+    </section>
+{% endblock %}

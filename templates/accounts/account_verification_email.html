@@ -1,0 +1,21 @@
+{% comment %} Auto Escape will provide a protection against cross side scripting. {% endcomment %}
+{% autoescape off %}
+
+Hi {{ user.first_name|upper }},
+
+Verify your email to finish signing up
+
+Thank you for choosing CHILL DRESSING.
+
+We're stoked to have you join the Chill fam! Before you can start shopping for the coolest clothes on the internet, we just need to verify your account.
+
+Please click on below link!
+http://{{domain}}{% url 'activate' uidb64=uid token=token %}
+
+If you didn't sign up for Chill Dressing, just ignore this email - no hard feelings!
+
+Once your account is verified, you'll have access to exclusive sales, early access to new arrivals, and personalized recommendations based on your style. We promise to keep things chill and never spam you.
+
+If you have any questions or need help with anything, just hit reply and one of our chill support team members will be happy to assist you.
+
+{% endautoescape %}
