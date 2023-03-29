@@ -1,0 +1,21 @@
+{% comment %} Auto Escape will provide a protection against cross side scripting. {% endcomment %}
+{% autoescape off %}
+
+Hi {{ user.first_name|upper }},
+
+Thank you for your order with Chill Dressing! We're excited to let you know that we've received your order and it's currently being processed. 
+Your order number is {{ order.order_number }}, so keep this handy in case you need to contact us.
+
+Here are the details of your order:
+
+Order Number: {{ order.order_number }}
+Order Date and Time: {{ order.created_at }}
+Shipping Address: {{ order.address_line1 }}{% if order.address_line2 %}, {{ order.address_line2 }} {% endif %}
+Order Total: {{ order.order_total }}
+
+We're working hard to get your order shipped out as soon as possible, and we'll let you know as soon as it's on its way. Once your order ships, you'll receive a separate email with the tracking information.
+
+If you have any questions or concerns about your order, don't hesitate to reach out to us at chilldressing@gmail.com. We're here to help!
+
+Thanks again for shopping with Chill Dressing. Stay chill!
+{% endautoescape %}
