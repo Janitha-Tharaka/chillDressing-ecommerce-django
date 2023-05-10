@@ -1563,3 +1563,17 @@ a[class*=card]:hover .title {
 }
 
 /*# sourceMappingURL=ui.css.map */
+
+ol,
+ul,
+dl {
+  margin-bottom: 0rem !important;
+}
+
+.icon-transition {
+  transition: color 0.2s ease-in-out;
+}
+
+.icon-transition:hover {
+  color: #fbd308;
+}
