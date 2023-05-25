@@ -2,9 +2,28 @@
     <!--   SIDEBAR   -->
     <ul class="list-group">
         <a class="list-group-item {% if '/accounts/' == request.path %} active {% endif %}" href="{% url 'dashboard' %}"> Dashboard </a>
-        <a class="list-group-item {% if '/my_orders/' in request.path %} active {% endif %}" href="{% url 'my_orders' %}"> My Orders </a>
+        {% if user.is_superadmin %}
+            <a class="list-group-item" href="{% url 'admin:index' %}" target="_blank">Admin Panel</a>
+            <a class="list-group-item {% if '/sales_prediction/' in request.path %} active {% endif %}" href="{% url 'sales_prediction' %}"> Sales Prediction </a>
+            <!-- Reports Dropdown -->
+            <div class="dropdown">
+                <button class="pl-4 text-left btn btn-light btn-block dropdown-toggle text-blue" type="button" id="reportsDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Reports
+                </button>
+                <div class="dropdown-menu" aria-labelledby="reportsDropdown">
+                    <a class="dropdown-item {% if '/completed_sales_per_day_report/' in request.path %} active {% endif %}" href="{% url 'completed_sales_per_day_report' %}">Completed Sales per Day Report</a>
+                    <a class="dropdown-item {% if '/new_sales_per_day_report/' in request.path %} active {% endif %}" href="{% url 'new_sales_per_day_report' %}">New Sales per Day Report</a>
+                    <a class="dropdown-item {% if '/sales_per_category_report/' in request.path %} active {% endif %}" href="{% url 'sales_per_category_report' %}">Completed Sales per Category Report</a>
+                    <a class="dropdown-item {% if '/cart_detail_report/' in request.path %} active {% endif %}" href="{% url 'cart_detail_report' %}">Cart Detail Report</a>
+                </div>
+            </div>
+        {% else %}
+            <a class="list-group-item {% if '/my_orders/' in request.path %} active {% endif %}" href="{% url 'my_orders' %}"> My Orders </a>
+        {% endif %}
         <a class="list-group-item {% if '/edit_profile/' in request.path %} active {% endif %}" href="{% url 'edit_profile' %}"> Edit Profile </a>
         <a class="list-group-item {% if '/change_password/' in request.path %} active {% endif %}" href="{% url 'change_password' %}"> Change Password </a>
+        
+
     </ul>
     <br>
     <a class="btn btn-light btn-block" href="{% url 'logout' %}"> <i class="fa fa-power-off"></i> <span class="text">Log out</span> </a> 

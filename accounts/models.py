@@ -7,10 +7,10 @@ from django.contrib.auth.models import AbstractBaseUser, BaseUserManager
 class MyAccountManager(BaseUserManager):
     def create_user(self, first_name, last_name, username, email, password=None):
         if not email:
-            raise ValueError('Enter Email Address')
+            raise ValueError("Enter Email Address")
 
         if not username:
-            raise ValueError('Enter User Name')
+            raise ValueError("Enter User Name")
 
         user = self.model(
             # If user typed capital letters, it will automaticall make simple
@@ -57,10 +57,8 @@ class Account(AbstractBaseUser):
     is_active = models.BooleanField(default=False)
     is_superadmin = models.BooleanField(default=False)
 
-    USERNAME_FIELD = 'email'
-    REQUIRED_FIELDS = [
-        'username', 'first_name', 'last_name'
-    ]
+    USERNAME_FIELD = "email"
+    REQUIRED_FIELDS = ["username", "first_name", "last_name"]
 
     objects = MyAccountManager()
 
@@ -74,7 +72,7 @@ class Account(AbstractBaseUser):
         return True
 
     def full_name(self):
-        return f'{self.first_name} {self.last_name}'
+        return f"{self.first_name} {self.last_name}"
 
 
 class UserProfile(models.Model):
@@ -82,7 +80,7 @@ class UserProfile(models.Model):
     user = models.OneToOneField(Account, on_delete=models.CASCADE)
     address_line_1 = models.CharField(blank=True, max_length=100)
     address_line_2 = models.CharField(blank=True, max_length=100)
-    profile_picture = models.ImageField(blank=True, upload_to='userprofile')
+    profile_picture = models.ImageField(null=True, blank=True, upload_to="userprofile")
     city = models.CharField(blank=True, max_length=20)
     state = models.CharField(blank=True, max_length=20)
     country = models.CharField(blank=True, max_length=20)
@@ -91,4 +89,4 @@ class UserProfile(models.Model):
         return self.user.first_name
 
     def full_address(self):
-        return f'{self.address_line_1} {self.address_line_2}'
+        return f"{self.address_line_1} {self.address_line_2}"

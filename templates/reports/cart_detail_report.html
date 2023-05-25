@@ -1,0 +1,80 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+<section class="section-conten padding-y bg">
+    {% include 'includes/alerts.html' %}
+    <div class="container">
+        <div class="row">
+        {% include 'includes/dashboard_slidebar.html' %}
+        <main class="col-md-9">
+            <article class="card">
+            <header class="card-header">
+                <strong class="d-inline-block mr-3">Cart Detail Report</strong>
+            </header>
+            <div class="card-body">
+                <div class="row text-center"> 
+                    <div class="col-md-12">
+                        <table class="table table-hover table-bordered table-striped table-responsive cart_detail_report">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th>User Name</th>
+                                    <th>Cart ID</th>
+                                    <th>Date Added</th>
+                                    <th>Products</th>
+                                    <th>Quantity</th>
+                                    <th>Product Total Cost</th>
+                                    <th>Total Quantities</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for cart_item in cart_data %}
+                                    <tr>
+                                        <td>{{ cart_item.user_name }}</td>
+                                        <td>{{ cart_item.cart_id }}</td>
+                                        <td>{{ cart_item.date_added }}</td>
+                                        <td>
+                                            <ul>
+                                                {% for item in cart_item.products %}
+                                                    <li>{{ item.product }}</li>
+                                                {% endfor %}
+                                            </ul>
+                                        </td>
+                                        <td class="text-right">
+                                            <ul>
+                                                {% for item in cart_item.products %}
+                                                    <li>{{ item.quantity }}</li>
+                                                {% endfor %}
+                                            </ul>
+                                        </td>
+                                        <td class="text-right">
+                                            <ul>
+                                                {% for item in cart_item.products %}
+                                                    <li>{{ item.sub_total }}</li>
+                                                {% endfor %}
+                                            </ul>
+                                        </td class="text-right">
+                                        <td class="text-right">
+                                            {{ cart_item.total_value }}
+                                        </td>
+                                    </tr>
+                                {% endfor %}
+                            </tbody>                   
+                        </table>
+                    </div>
+
+                </div> <!-- row.// -->
+            </div> <!-- card-body .// -->
+            <div class="table-responsive">
+            
+            </div> <!-- table-responsive .end// -->
+            </article> <!-- order-group.// --> 
+        </main>
+    </div> <!-- row.// -->
+    </div>
+    
+    
+    </section>
+
+{% endblock %}

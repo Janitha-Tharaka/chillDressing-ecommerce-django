@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+<section class="section-conten padding-y bg">
+    {% include 'includes/alerts.html' %}
+    <div class="container">
+        <div class="row">
+        {% include 'includes/dashboard_slidebar.html' %}
+        <main class="col-md-9">
+            <article class="card">
+            <header class="card-header">
+                <strong class="d-inline-block mr-3">Sales Prediction </strong>
+            </header>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Month</th>
+                                    <th>Units Sold</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for row in table_data %}
+                                <tr>
+                                    <td>{{ row.0 }}</td>
+                                    <td>{{ row.1|floatformat:2 }}</td>
+                                </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                
+                <div class="row">
+                    <div class="col-md-12">
+                        <img class="img-fluid" src="data:image/png;base64,{{ image_data }}" alt="Line Chart">
+                    </div>
+                </div>
+                
+            </div> <!-- card-body .// -->
+            <div class="table-responsive">
+            
+            </div> <!-- table-responsive .end// -->
+            </article> <!-- order-group.// --> 
+        </main>
+    </div> <!-- row.// -->
+    </div>
+    
+    
+    </section>
+
+{% endblock %}

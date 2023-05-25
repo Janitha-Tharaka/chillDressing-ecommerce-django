@@ -37,6 +37,7 @@
                                 <div class="form-group col-md-6">
                                     <label> Phone Number </label>
                                     {{ user_form.phone_number }}
+                                    <span id="phone-error" class="error-message"></span>
                                 </div>
 
                                 <div class="form-group col-md-6">
@@ -90,5 +91,9 @@
     
     
     </section>
+
+    <script>
+        document.getElementById("id_phone_number").addEventListener("change", validatePhoneNumber);
+    </script>
 
 {% endblock %}

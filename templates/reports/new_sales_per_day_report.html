@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+<section class="section-conten padding-y bg">
+    {% include 'includes/alerts.html' %}
+    <div class="container">
+        <div class="row">
+        {% include 'includes/dashboard_slidebar.html' %}
+        <main class="col-md-9">
+            <article class="card">
+            <header class="card-header">
+                <strong class="d-inline-block mr-3">New Sales per Day Report </strong>
+            </header>
+            <div class="card-body">
+                <div class="row text-center"> 
+                    <div class="col-md-12">
+                        <table class="table table-hover table-bordered table-striped">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th>Date & Time</th>
+                                    <th>Total Sales</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for entry in new_sales_per_day %}
+                                    <tr>
+                                        <td>{{ entry.created_at }}</td>
+                                        <td>{{ entry.total_sales }}</td>
+                                    </tr>
+                                {% endfor %}
+                            </tbody>
+                        </table>
+                    </div>
+
+                </div> <!-- row.// -->
+            </div> <!-- card-body .// -->
+            <div class="table-responsive">
+            
+            </div> <!-- table-responsive .end// -->
+            </article> <!-- order-group.// --> 
+        </main>
+    </div> <!-- row.// -->
+    </div>
+    
+    
+    </section>
+
+{% endblock %}

@@ -1,0 +1,2687 @@
+year,month,season,specific_holidays,category,units_sold
+2010,3,Spring,1,Frocks,8
+2010,3,Spring,1,Women Hoodies,8
+2010,3,Spring,1,Men Hoodies,24
+2010,3,Spring,1,Men Shirts,24
+2010,3,Spring,1,Women Shirts,40
+2010,3,Spring,1,Men T-shirts,24
+2010,3,Spring,1,Women T-shirts,16
+2010,3,Spring,1,Skirts,40
+2010,3,Spring,1,Men Suits,40
+2010,3,Spring,1,Women Suits,8
+2010,3,Spring,1,Blouses,40
+2010,3,Spring,1,Women Jackets,0
+2010,3,Spring,1,Women Jeans,24
+2010,3,Spring,1,Men Casual Shorts,8
+2010,3,Spring,1,Men Cargo Shorts,32
+2010,3,Spring,1,Men Jeans,8
+2010,3,Spring,1,Men Jackets,0
+2010,4,Spring,2,Frocks,36
+2010,4,Spring,2,Women Hoodies,40
+2010,4,Spring,2,Men Hoodies,36
+2010,4,Spring,2,Men Shirts,32
+2010,4,Spring,2,Women Shirts,24
+2010,4,Spring,2,Men T-shirts,24
+2010,4,Spring,2,Women T-shirts,28
+2010,4,Spring,2,Skirts,36
+2010,4,Spring,2,Men Suits,40
+2010,4,Spring,2,Women Suits,40
+2010,4,Spring,2,Blouses,24
+2010,4,Spring,2,Women Jackets,0
+2010,4,Spring,2,Women Jeans,36
+2010,4,Spring,2,Men Casual Shorts,32
+2010,4,Spring,2,Men Cargo Shorts,40
+2010,4,Spring,2,Men Jeans,24
+2010,4,Spring,2,Men Jackets,0
+2010,5,Spring,2,Frocks,36
+2010,5,Spring,2,Women Hoodies,40
+2010,5,Spring,2,Men Hoodies,40
+2010,5,Spring,2,Men Shirts,24
+2010,5,Spring,2,Women Shirts,32
+2010,5,Spring,2,Men T-shirts,36
+2010,5,Spring,2,Women T-shirts,32
+2010,5,Spring,2,Skirts,20
+2010,5,Spring,2,Men Suits,28
+2010,5,Spring,2,Women Suits,32
+2010,5,Spring,2,Blouses,32
+2010,5,Spring,2,Women Jackets,0
+2010,5,Spring,2,Women Jeans,36
+2010,5,Spring,2,Men Casual Shorts,28
+2010,5,Spring,2,Men Cargo Shorts,24
+2010,5,Spring,2,Men Jeans,40
+2010,5,Spring,2,Men Jackets,0
+2010,6,Summer,0,Frocks,9
+2010,6,Summer,0,Women Hoodies,4
+2010,6,Summer,0,Men Hoodies,10
+2010,6,Summer,0,Men Shirts,8
+2010,6,Summer,0,Women Shirts,3
+2010,6,Summer,0,Men T-shirts,7
+2010,6,Summer,0,Women T-shirts,8
+2010,6,Summer,0,Skirts,4
+2010,6,Summer,0,Men Suits,10
+2010,6,Summer,0,Women Suits,5
+2010,6,Summer,0,Blouses,3
+2010,6,Summer,0,Women Jackets,0
+2010,6,Summer,0,Women Jeans,7
+2010,6,Summer,0,Men Casual Shorts,6
+2010,6,Summer,0,Men Cargo Shorts,5
+2010,6,Summer,0,Men Jeans,2
+2010,6,Summer,0,Men Jackets,0
+2010,7,Summer,0,Frocks,5
+2010,7,Summer,0,Women Hoodies,1
+2010,7,Summer,0,Men Hoodies,7
+2010,7,Summer,0,Men Shirts,5
+2010,7,Summer,0,Women Shirts,8
+2010,7,Summer,0,Men T-shirts,3
+2010,7,Summer,0,Women T-shirts,4
+2010,7,Summer,0,Skirts,6
+2010,7,Summer,0,Men Suits,7
+2010,7,Summer,0,Women Suits,1
+2010,7,Summer,0,Blouses,4
+2010,7,Summer,0,Women Jackets,0
+2010,7,Summer,0,Women Jeans,3
+2010,7,Summer,0,Men Casual Shorts,3
+2010,7,Summer,0,Men Cargo Shorts,4
+2010,7,Summer,0,Men Jeans,1
+2010,7,Summer,0,Men Jackets,0
+2010,8,Summer,0,Frocks,3
+2010,8,Summer,0,Women Hoodies,9
+2010,8,Summer,0,Men Hoodies,1
+2010,8,Summer,0,Men Shirts,7
+2010,8,Summer,0,Women Shirts,6
+2010,8,Summer,0,Men T-shirts,9
+2010,8,Summer,0,Women T-shirts,2
+2010,8,Summer,0,Skirts,7
+2010,8,Summer,0,Men Suits,1
+2010,8,Summer,0,Women Suits,1
+2010,8,Summer,0,Blouses,7
+2010,8,Summer,0,Women Jackets,0
+2010,8,Summer,0,Women Jeans,8
+2010,8,Summer,0,Men Casual Shorts,9
+2010,8,Summer,0,Men Cargo Shorts,9
+2010,8,Summer,0,Men Jeans,2
+2010,8,Summer,0,Men Jackets,0
+2010,9,Autumn,0,Frocks,10
+2010,9,Autumn,0,Women Hoodies,6
+2010,9,Autumn,0,Men Hoodies,2
+2010,9,Autumn,0,Men Shirts,5
+2010,9,Autumn,0,Women Shirts,3
+2010,9,Autumn,0,Men T-shirts,5
+2010,9,Autumn,0,Women T-shirts,6
+2010,9,Autumn,0,Skirts,9
+2010,9,Autumn,0,Men Suits,10
+2010,9,Autumn,0,Women Suits,1
+2010,9,Autumn,0,Blouses,5
+2010,9,Autumn,0,Women Jackets,0
+2010,9,Autumn,0,Women Jeans,2
+2010,9,Autumn,0,Men Casual Shorts,2
+2010,9,Autumn,0,Men Cargo Shorts,10
+2010,9,Autumn,0,Men Jeans,3
+2010,9,Autumn,0,Men Jackets,0
+2010,10,Autumn,0,Frocks,1
+2010,10,Autumn,0,Women Hoodies,10
+2010,10,Autumn,0,Men Hoodies,4
+2010,10,Autumn,0,Men Shirts,6
+2010,10,Autumn,0,Women Shirts,3
+2010,10,Autumn,0,Men T-shirts,7
+2010,10,Autumn,0,Women T-shirts,1
+2010,10,Autumn,0,Skirts,10
+2010,10,Autumn,0,Men Suits,7
+2010,10,Autumn,0,Women Suits,8
+2010,10,Autumn,0,Blouses,6
+2010,10,Autumn,0,Women Jackets,0
+2010,10,Autumn,0,Women Jeans,6
+2010,10,Autumn,0,Men Casual Shorts,7
+2010,10,Autumn,0,Men Cargo Shorts,7
+2010,10,Autumn,0,Men Jeans,4
+2010,10,Autumn,0,Men Jackets,0
+2010,11,Autumn,0,Frocks,5
+2010,11,Autumn,0,Women Hoodies,3
+2010,11,Autumn,0,Men Hoodies,9
+2010,11,Autumn,0,Men Shirts,7
+2010,11,Autumn,0,Women Shirts,4
+2010,11,Autumn,0,Men T-shirts,8
+2010,11,Autumn,0,Women T-shirts,6
+2010,11,Autumn,0,Skirts,7
+2010,11,Autumn,0,Men Suits,10
+2010,11,Autumn,0,Women Suits,10
+2010,11,Autumn,0,Blouses,2
+2010,11,Autumn,0,Women Jackets,0
+2010,11,Autumn,0,Women Jeans,6
+2010,11,Autumn,0,Men Casual Shorts,5
+2010,11,Autumn,0,Men Cargo Shorts,2
+2010,11,Autumn,0,Men Jeans,8
+2010,11,Autumn,0,Men Jackets,0
+2010,12,Winter,3,Frocks,28
+2010,12,Winter,3,Women Hoodies,72
+2010,12,Winter,3,Men Hoodies,72
+2010,12,Winter,3,Men Shirts,24
+2010,12,Winter,3,Women Shirts,28
+2010,12,Winter,3,Men T-shirts,36
+2010,12,Winter,3,Women T-shirts,28
+2010,12,Winter,3,Skirts,36
+2010,12,Winter,3,Men Suits,28
+2010,12,Winter,3,Women Suits,40
+2010,12,Winter,3,Blouses,32
+2010,12,Winter,3,Women Jackets,108
+2010,12,Winter,3,Women Jeans,24
+2010,12,Winter,3,Men Casual Shorts,32
+2010,12,Winter,3,Men Cargo Shorts,24
+2010,12,Winter,3,Men Jeans,20
+2010,12,Winter,3,Men Jackets,84
+2011,1,Winter,1,Frocks,36
+2011,1,Winter,1,Women Hoodies,108
+2011,1,Winter,1,Men Hoodies,96
+2011,1,Winter,1,Men Shirts,24
+2011,1,Winter,1,Women Shirts,40
+2011,1,Winter,1,Men T-shirts,36
+2011,1,Winter,1,Women T-shirts,24
+2011,1,Winter,1,Skirts,32
+2011,1,Winter,1,Men Suits,28
+2011,1,Winter,1,Women Suits,28
+2011,1,Winter,1,Blouses,40
+2011,1,Winter,1,Women Jackets,72
+2011,1,Winter,1,Women Jeans,40
+2011,1,Winter,1,Men Casual Shorts,24
+2011,1,Winter,1,Men Cargo Shorts,36
+2011,1,Winter,1,Men Jeans,40
+2011,1,Winter,1,Men Jackets,120
+2011,2,Winter,0,Frocks,8
+2011,2,Winter,0,Women Hoodies,12
+2011,2,Winter,0,Men Hoodies,21
+2011,2,Winter,0,Men Shirts,9
+2011,2,Winter,0,Women Shirts,6
+2011,2,Winter,0,Men T-shirts,1
+2011,2,Winter,0,Women T-shirts,1
+2011,2,Winter,0,Skirts,4
+2011,2,Winter,0,Men Suits,2
+2011,2,Winter,0,Women Suits,9
+2011,2,Winter,0,Blouses,6
+2011,2,Winter,0,Women Jackets,27
+2011,2,Winter,0,Women Jeans,10
+2011,2,Winter,0,Men Casual Shorts,3
+2011,2,Winter,0,Men Cargo Shorts,1
+2011,2,Winter,0,Men Jeans,8
+2011,2,Winter,0,Men Jackets,21
+2011,3,Spring,1,Frocks,28
+2011,3,Spring,1,Women Hoodies,20
+2011,3,Spring,1,Men Hoodies,40
+2011,3,Spring,1,Men Shirts,32
+2011,3,Spring,1,Women Shirts,40
+2011,3,Spring,1,Men T-shirts,28
+2011,3,Spring,1,Women T-shirts,36
+2011,3,Spring,1,Skirts,20
+2011,3,Spring,1,Men Suits,32
+2011,3,Spring,1,Women Suits,28
+2011,3,Spring,1,Blouses,40
+2011,3,Spring,1,Women Jackets,0
+2011,3,Spring,1,Women Jeans,20
+2011,3,Spring,1,Men Casual Shorts,32
+2011,3,Spring,1,Men Cargo Shorts,28
+2011,3,Spring,1,Men Jeans,24
+2011,3,Spring,1,Men Jackets,0
+2011,4,Spring,2,Frocks,28
+2011,4,Spring,2,Women Hoodies,36
+2011,4,Spring,2,Men Hoodies,20
+2011,4,Spring,2,Men Shirts,24
+2011,4,Spring,2,Women Shirts,20
+2011,4,Spring,2,Men T-shirts,36
+2011,4,Spring,2,Women T-shirts,32
+2011,4,Spring,2,Skirts,24
+2011,4,Spring,2,Men Suits,32
+2011,4,Spring,2,Women Suits,40
+2011,4,Spring,2,Blouses,40
+2011,4,Spring,2,Women Jackets,0
+2011,4,Spring,2,Women Jeans,24
+2011,4,Spring,2,Men Casual Shorts,28
+2011,4,Spring,2,Men Cargo Shorts,36
+2011,4,Spring,2,Men Jeans,36
+2011,4,Spring,2,Men Jackets,0
+2011,5,Spring,2,Frocks,28
+2011,5,Spring,2,Women Hoodies,20
+2011,5,Spring,2,Men Hoodies,24
+2011,5,Spring,2,Men Shirts,20
+2011,5,Spring,2,Women Shirts,32
+2011,5,Spring,2,Men T-shirts,36
+2011,5,Spring,2,Women T-shirts,40
+2011,5,Spring,2,Skirts,36
+2011,5,Spring,2,Men Suits,36
+2011,5,Spring,2,Women Suits,36
+2011,5,Spring,2,Blouses,24
+2011,5,Spring,2,Women Jackets,0
+2011,5,Spring,2,Women Jeans,20
+2011,5,Spring,2,Men Casual Shorts,40
+2011,5,Spring,2,Men Cargo Shorts,20
+2011,5,Spring,2,Men Jeans,20
+2011,5,Spring,2,Men Jackets,0
+2011,6,Summer,0,Frocks,4
+2011,6,Summer,0,Women Hoodies,6
+2011,6,Summer,0,Men Hoodies,8
+2011,6,Summer,0,Men Shirts,8
+2011,6,Summer,0,Women Shirts,5
+2011,6,Summer,0,Men T-shirts,7
+2011,6,Summer,0,Women T-shirts,10
+2011,6,Summer,0,Skirts,6
+2011,6,Summer,0,Men Suits,4
+2011,6,Summer,0,Women Suits,5
+2011,6,Summer,0,Blouses,7
+2011,6,Summer,0,Women Jackets,0
+2011,6,Summer,0,Women Jeans,4
+2011,6,Summer,0,Men Casual Shorts,1
+2011,6,Summer,0,Men Cargo Shorts,6
+2011,6,Summer,0,Men Jeans,10
+2011,6,Summer,0,Men Jackets,0
+2011,7,Summer,0,Frocks,7
+2011,7,Summer,0,Women Hoodies,10
+2011,7,Summer,0,Men Hoodies,1
+2011,7,Summer,0,Men Shirts,4
+2011,7,Summer,0,Women Shirts,2
+2011,7,Summer,0,Men T-shirts,5
+2011,7,Summer,0,Women T-shirts,3
+2011,7,Summer,0,Skirts,10
+2011,7,Summer,0,Men Suits,2
+2011,7,Summer,0,Women Suits,8
+2011,7,Summer,0,Blouses,7
+2011,7,Summer,0,Women Jackets,0
+2011,7,Summer,0,Women Jeans,1
+2011,7,Summer,0,Men Casual Shorts,7
+2011,7,Summer,0,Men Cargo Shorts,6
+2011,7,Summer,0,Men Jeans,1
+2011,7,Summer,0,Men Jackets,0
+2011,8,Summer,0,Frocks,4
+2011,8,Summer,0,Women Hoodies,4
+2011,8,Summer,0,Men Hoodies,5
+2011,8,Summer,0,Men Shirts,1
+2011,8,Summer,0,Women Shirts,2
+2011,8,Summer,0,Men T-shirts,8
+2011,8,Summer,0,Women T-shirts,8
+2011,8,Summer,0,Skirts,10
+2011,8,Summer,0,Men Suits,7
+2011,8,Summer,0,Women Suits,1
+2011,8,Summer,0,Blouses,7
+2011,8,Summer,0,Women Jackets,0
+2011,8,Summer,0,Women Jeans,10
+2011,8,Summer,0,Men Casual Shorts,7
+2011,8,Summer,0,Men Cargo Shorts,4
+2011,8,Summer,0,Men Jeans,8
+2011,8,Summer,0,Men Jackets,0
+2011,9,Autumn,0,Frocks,10
+2011,9,Autumn,0,Women Hoodies,9
+2011,9,Autumn,0,Men Hoodies,10
+2011,9,Autumn,0,Men Shirts,2
+2011,9,Autumn,0,Women Shirts,1
+2011,9,Autumn,0,Men T-shirts,3
+2011,9,Autumn,0,Women T-shirts,9
+2011,9,Autumn,0,Skirts,8
+2011,9,Autumn,0,Men Suits,7
+2011,9,Autumn,0,Women Suits,9
+2011,9,Autumn,0,Blouses,10
+2011,9,Autumn,0,Women Jackets,0
+2011,9,Autumn,0,Women Jeans,6
+2011,9,Autumn,0,Men Casual Shorts,3
+2011,9,Autumn,0,Men Cargo Shorts,7
+2011,9,Autumn,0,Men Jeans,9
+2011,9,Autumn,0,Men Jackets,0
+2011,10,Autumn,0,Frocks,7
+2011,10,Autumn,0,Women Hoodies,1
+2011,10,Autumn,0,Men Hoodies,1
+2011,10,Autumn,0,Men Shirts,6
+2011,10,Autumn,0,Women Shirts,9
+2011,10,Autumn,0,Men T-shirts,10
+2011,10,Autumn,0,Women T-shirts,4
+2011,10,Autumn,0,Skirts,9
+2011,10,Autumn,0,Men Suits,6
+2011,10,Autumn,0,Women Suits,7
+2011,10,Autumn,0,Blouses,7
+2011,10,Autumn,0,Women Jackets,0
+2011,10,Autumn,0,Women Jeans,4
+2011,10,Autumn,0,Men Casual Shorts,9
+2011,10,Autumn,0,Men Cargo Shorts,2
+2011,10,Autumn,0,Men Jeans,1
+2011,10,Autumn,0,Men Jackets,0
+2011,11,Autumn,0,Frocks,6
+2011,11,Autumn,0,Women Hoodies,7
+2011,11,Autumn,0,Men Hoodies,7
+2011,11,Autumn,0,Men Shirts,3
+2011,11,Autumn,0,Women Shirts,2
+2011,11,Autumn,0,Men T-shirts,10
+2011,11,Autumn,0,Women T-shirts,8
+2011,11,Autumn,0,Skirts,3
+2011,11,Autumn,0,Men Suits,5
+2011,11,Autumn,0,Women Suits,8
+2011,11,Autumn,0,Blouses,7
+2011,11,Autumn,0,Women Jackets,0
+2011,11,Autumn,0,Women Jeans,2
+2011,11,Autumn,0,Men Casual Shorts,9
+2011,11,Autumn,0,Men Cargo Shorts,10
+2011,11,Autumn,0,Men Jeans,9
+2011,11,Autumn,0,Men Jackets,0
+2011,12,Winter,3,Frocks,32
+2011,12,Winter,3,Women Hoodies,96
+2011,12,Winter,3,Men Hoodies,60
+2011,12,Winter,3,Men Shirts,40
+2011,12,Winter,3,Women Shirts,28
+2011,12,Winter,3,Men T-shirts,28
+2011,12,Winter,3,Women T-shirts,36
+2011,12,Winter,3,Skirts,28
+2011,12,Winter,3,Men Suits,36
+2011,12,Winter,3,Women Suits,24
+2011,12,Winter,3,Blouses,20
+2011,12,Winter,3,Women Jackets,84
+2011,12,Winter,3,Women Jeans,32
+2011,12,Winter,3,Men Casual Shorts,20
+2011,12,Winter,3,Men Cargo Shorts,32
+2011,12,Winter,3,Men Jeans,28
+2011,12,Winter,3,Men Jackets,96
+2012,1,Winter,1,Frocks,20
+2012,1,Winter,1,Women Hoodies,120
+2012,1,Winter,1,Men Hoodies,108
+2012,1,Winter,1,Men Shirts,28
+2012,1,Winter,1,Women Shirts,28
+2012,1,Winter,1,Men T-shirts,28
+2012,1,Winter,1,Women T-shirts,24
+2012,1,Winter,1,Skirts,20
+2012,1,Winter,1,Men Suits,24
+2012,1,Winter,1,Women Suits,24
+2012,1,Winter,1,Blouses,20
+2012,1,Winter,1,Women Jackets,96
+2012,1,Winter,1,Women Jeans,24
+2012,1,Winter,1,Men Casual Shorts,20
+2012,1,Winter,1,Men Cargo Shorts,20
+2012,1,Winter,1,Men Jeans,32
+2012,1,Winter,1,Men Jackets,60
+2012,2,Winter,0,Frocks,5
+2012,2,Winter,0,Women Hoodies,24
+2012,2,Winter,0,Men Hoodies,27
+2012,2,Winter,0,Men Shirts,9
+2012,2,Winter,0,Women Shirts,2
+2012,2,Winter,0,Men T-shirts,6
+2012,2,Winter,0,Women T-shirts,3
+2012,2,Winter,0,Skirts,7
+2012,2,Winter,0,Men Suits,5
+2012,2,Winter,0,Women Suits,3
+2012,2,Winter,0,Blouses,10
+2012,2,Winter,0,Women Jackets,27
+2012,2,Winter,0,Women Jeans,1
+2012,2,Winter,0,Men Casual Shorts,1
+2012,2,Winter,0,Men Cargo Shorts,7
+2012,2,Winter,0,Men Jeans,9
+2012,2,Winter,0,Men Jackets,21
+2012,3,Spring,1,Frocks,40
+2012,3,Spring,1,Women Hoodies,28
+2012,3,Spring,1,Men Hoodies,40
+2012,3,Spring,1,Men Shirts,40
+2012,3,Spring,1,Women Shirts,40
+2012,3,Spring,1,Men T-shirts,24
+2012,3,Spring,1,Women T-shirts,36
+2012,3,Spring,1,Skirts,28
+2012,3,Spring,1,Men Suits,20
+2012,3,Spring,1,Women Suits,40
+2012,3,Spring,1,Blouses,28
+2012,3,Spring,1,Women Jackets,0
+2012,3,Spring,1,Women Jeans,40
+2012,3,Spring,1,Men Casual Shorts,40
+2012,3,Spring,1,Men Cargo Shorts,36
+2012,3,Spring,1,Men Jeans,28
+2012,3,Spring,1,Men Jackets,0
+2012,4,Spring,2,Frocks,32
+2012,4,Spring,2,Women Hoodies,40
+2012,4,Spring,2,Men Hoodies,20
+2012,4,Spring,2,Men Shirts,24
+2012,4,Spring,2,Women Shirts,36
+2012,4,Spring,2,Men T-shirts,32
+2012,4,Spring,2,Women T-shirts,24
+2012,4,Spring,2,Skirts,40
+2012,4,Spring,2,Men Suits,20
+2012,4,Spring,2,Women Suits,36
+2012,4,Spring,2,Blouses,32
+2012,4,Spring,2,Women Jackets,0
+2012,4,Spring,2,Women Jeans,32
+2012,4,Spring,2,Men Casual Shorts,40
+2012,4,Spring,2,Men Cargo Shorts,20
+2012,4,Spring,2,Men Jeans,36
+2012,4,Spring,2,Men Jackets,0
+2012,5,Spring,2,Frocks,20
+2012,5,Spring,2,Women Hoodies,20
+2012,5,Spring,2,Men Hoodies,20
+2012,5,Spring,2,Men Shirts,20
+2012,5,Spring,2,Women Shirts,36
+2012,5,Spring,2,Men T-shirts,28
+2012,5,Spring,2,Women T-shirts,24
+2012,5,Spring,2,Skirts,32
+2012,5,Spring,2,Men Suits,32
+2012,5,Spring,2,Women Suits,20
+2012,5,Spring,2,Blouses,28
+2012,5,Spring,2,Women Jackets,0
+2012,5,Spring,2,Women Jeans,32
+2012,5,Spring,2,Men Casual Shorts,36
+2012,5,Spring,2,Men Cargo Shorts,32
+2012,5,Spring,2,Men Jeans,36
+2012,5,Spring,2,Men Jackets,0
+2012,6,Summer,0,Frocks,10
+2012,6,Summer,0,Women Hoodies,7
+2012,6,Summer,0,Men Hoodies,1
+2012,6,Summer,0,Men Shirts,8
+2012,6,Summer,0,Women Shirts,8
+2012,6,Summer,0,Men T-shirts,4
+2012,6,Summer,0,Women T-shirts,6
+2012,6,Summer,0,Skirts,9
+2012,6,Summer,0,Men Suits,9
+2012,6,Summer,0,Women Suits,4
+2012,6,Summer,0,Blouses,5
+2012,6,Summer,0,Women Jackets,0
+2012,6,Summer,0,Women Jeans,2
+2012,6,Summer,0,Men Casual Shorts,1
+2012,6,Summer,0,Men Cargo Shorts,3
+2012,6,Summer,0,Men Jeans,1
+2012,6,Summer,0,Men Jackets,0
+2012,7,Summer,0,Frocks,2
+2012,7,Summer,0,Women Hoodies,2
+2012,7,Summer,0,Men Hoodies,7
+2012,7,Summer,0,Men Shirts,7
+2012,7,Summer,0,Women Shirts,8
+2012,7,Summer,0,Men T-shirts,3
+2012,7,Summer,0,Women T-shirts,2
+2012,7,Summer,0,Skirts,1
+2012,7,Summer,0,Men Suits,4
+2012,7,Summer,0,Women Suits,5
+2012,7,Summer,0,Blouses,2
+2012,7,Summer,0,Women Jackets,0
+2012,7,Summer,0,Women Jeans,8
+2012,7,Summer,0,Men Casual Shorts,1
+2012,7,Summer,0,Men Cargo Shorts,3
+2012,7,Summer,0,Men Jeans,2
+2012,7,Summer,0,Men Jackets,0
+2012,8,Summer,0,Frocks,4
+2012,8,Summer,0,Women Hoodies,2
+2012,8,Summer,0,Men Hoodies,9
+2012,8,Summer,0,Men Shirts,2
+2012,8,Summer,0,Women Shirts,10
+2012,8,Summer,0,Men T-shirts,2
+2012,8,Summer,0,Women T-shirts,3
+2012,8,Summer,0,Skirts,5
+2012,8,Summer,0,Men Suits,5
+2012,8,Summer,0,Women Suits,3
+2012,8,Summer,0,Blouses,5
+2012,8,Summer,0,Women Jackets,0
+2012,8,Summer,0,Women Jeans,3
+2012,8,Summer,0,Men Casual Shorts,6
+2012,8,Summer,0,Men Cargo Shorts,5
+2012,8,Summer,0,Men Jeans,9
+2012,8,Summer,0,Men Jackets,0
+2012,9,Autumn,0,Frocks,10
+2012,9,Autumn,0,Women Hoodies,9
+2012,9,Autumn,0,Men Hoodies,4
+2012,9,Autumn,0,Men Shirts,5
+2012,9,Autumn,0,Women Shirts,5
+2012,9,Autumn,0,Men T-shirts,7
+2012,9,Autumn,0,Women T-shirts,6
+2012,9,Autumn,0,Skirts,9
+2012,9,Autumn,0,Men Suits,3
+2012,9,Autumn,0,Women Suits,1
+2012,9,Autumn,0,Blouses,2
+2012,9,Autumn,0,Women Jackets,0
+2012,9,Autumn,0,Women Jeans,10
+2012,9,Autumn,0,Men Casual Shorts,1
+2012,9,Autumn,0,Men Cargo Shorts,9
+2012,9,Autumn,0,Men Jeans,7
+2012,9,Autumn,0,Men Jackets,0
+2012,10,Autumn,0,Frocks,3
+2012,10,Autumn,0,Women Hoodies,6
+2012,10,Autumn,0,Men Hoodies,7
+2012,10,Autumn,0,Men Shirts,2
+2012,10,Autumn,0,Women Shirts,7
+2012,10,Autumn,0,Men T-shirts,2
+2012,10,Autumn,0,Women T-shirts,1
+2012,10,Autumn,0,Skirts,7
+2012,10,Autumn,0,Men Suits,3
+2012,10,Autumn,0,Women Suits,8
+2012,10,Autumn,0,Blouses,7
+2012,10,Autumn,0,Women Jackets,0
+2012,10,Autumn,0,Women Jeans,8
+2012,10,Autumn,0,Men Casual Shorts,6
+2012,10,Autumn,0,Men Cargo Shorts,2
+2012,10,Autumn,0,Men Jeans,3
+2012,10,Autumn,0,Men Jackets,0
+2012,11,Autumn,0,Frocks,8
+2012,11,Autumn,0,Women Hoodies,10
+2012,11,Autumn,0,Men Hoodies,2
+2012,11,Autumn,0,Men Shirts,7
+2012,11,Autumn,0,Women Shirts,6
+2012,11,Autumn,0,Men T-shirts,8
+2012,11,Autumn,0,Women T-shirts,8
+2012,11,Autumn,0,Skirts,8
+2012,11,Autumn,0,Men Suits,1
+2012,11,Autumn,0,Women Suits,2
+2012,11,Autumn,0,Blouses,5
+2012,11,Autumn,0,Women Jackets,0
+2012,11,Autumn,0,Women Jeans,7
+2012,11,Autumn,0,Men Casual Shorts,6
+2012,11,Autumn,0,Men Cargo Shorts,5
+2012,11,Autumn,0,Men Jeans,10
+2012,11,Autumn,0,Men Jackets,0
+2012,12,Winter,3,Frocks,32
+2012,12,Winter,3,Women Hoodies,120
+2012,12,Winter,3,Men Hoodies,108
+2012,12,Winter,3,Men Shirts,32
+2012,12,Winter,3,Women Shirts,40
+2012,12,Winter,3,Men T-shirts,28
+2012,12,Winter,3,Women T-shirts,28
+2012,12,Winter,3,Skirts,24
+2012,12,Winter,3,Men Suits,20
+2012,12,Winter,3,Women Suits,32
+2012,12,Winter,3,Blouses,36
+2012,12,Winter,3,Women Jackets,108
+2012,12,Winter,3,Women Jeans,24
+2012,12,Winter,3,Men Casual Shorts,20
+2012,12,Winter,3,Men Cargo Shorts,40
+2012,12,Winter,3,Men Jeans,28
+2012,12,Winter,3,Men Jackets,120
+2013,1,Winter,1,Frocks,40
+2013,1,Winter,1,Women Hoodies,72
+2013,1,Winter,1,Men Hoodies,84
+2013,1,Winter,1,Men Shirts,32
+2013,1,Winter,1,Women Shirts,40
+2013,1,Winter,1,Men T-shirts,32
+2013,1,Winter,1,Women T-shirts,36
+2013,1,Winter,1,Skirts,36
+2013,1,Winter,1,Men Suits,20
+2013,1,Winter,1,Women Suits,24
+2013,1,Winter,1,Blouses,36
+2013,1,Winter,1,Women Jackets,72
+2013,1,Winter,1,Women Jeans,40
+2013,1,Winter,1,Men Casual Shorts,32
+2013,1,Winter,1,Men Cargo Shorts,24
+2013,1,Winter,1,Men Jeans,24
+2013,1,Winter,1,Men Jackets,72
+2013,2,Winter,0,Frocks,4
+2013,2,Winter,0,Women Hoodies,24
+2013,2,Winter,0,Men Hoodies,9
+2013,2,Winter,0,Men Shirts,4
+2013,2,Winter,0,Women Shirts,8
+2013,2,Winter,0,Men T-shirts,5
+2013,2,Winter,0,Women T-shirts,10
+2013,2,Winter,0,Skirts,9
+2013,2,Winter,0,Men Suits,6
+2013,2,Winter,0,Women Suits,1
+2013,2,Winter,0,Blouses,5
+2013,2,Winter,0,Women Jackets,9
+2013,2,Winter,0,Women Jeans,5
+2013,2,Winter,0,Men Casual Shorts,5
+2013,2,Winter,0,Men Cargo Shorts,10
+2013,2,Winter,0,Men Jeans,2
+2013,2,Winter,0,Men Jackets,6
+2013,3,Spring,1,Frocks,20
+2013,3,Spring,1,Women Hoodies,40
+2013,3,Spring,1,Men Hoodies,28
+2013,3,Spring,1,Men Shirts,20
+2013,3,Spring,1,Women Shirts,28
+2013,3,Spring,1,Men T-shirts,20
+2013,3,Spring,1,Women T-shirts,24
+2013,3,Spring,1,Skirts,40
+2013,3,Spring,1,Men Suits,36
+2013,3,Spring,1,Women Suits,36
+2013,3,Spring,1,Blouses,40
+2013,3,Spring,1,Women Jackets,0
+2013,3,Spring,1,Women Jeans,24
+2013,3,Spring,1,Men Casual Shorts,20
+2013,3,Spring,1,Men Cargo Shorts,36
+2013,3,Spring,1,Men Jeans,28
+2013,3,Spring,1,Men Jackets,0
+2013,4,Spring,2,Frocks,24
+2013,4,Spring,2,Women Hoodies,24
+2013,4,Spring,2,Men Hoodies,20
+2013,4,Spring,2,Men Shirts,28
+2013,4,Spring,2,Women Shirts,24
+2013,4,Spring,2,Men T-shirts,28
+2013,4,Spring,2,Women T-shirts,24
+2013,4,Spring,2,Skirts,20
+2013,4,Spring,2,Men Suits,36
+2013,4,Spring,2,Women Suits,40
+2013,4,Spring,2,Blouses,28
+2013,4,Spring,2,Women Jackets,0
+2013,4,Spring,2,Women Jeans,20
+2013,4,Spring,2,Men Casual Shorts,32
+2013,4,Spring,2,Men Cargo Shorts,40
+2013,4,Spring,2,Men Jeans,20
+2013,4,Spring,2,Men Jackets,0
+2013,5,Spring,2,Frocks,40
+2013,5,Spring,2,Women Hoodies,24
+2013,5,Spring,2,Men Hoodies,40
+2013,5,Spring,2,Men Shirts,32
+2013,5,Spring,2,Women Shirts,20
+2013,5,Spring,2,Men T-shirts,20
+2013,5,Spring,2,Women T-shirts,36
+2013,5,Spring,2,Skirts,20
+2013,5,Spring,2,Men Suits,40
+2013,5,Spring,2,Women Suits,20
+2013,5,Spring,2,Blouses,40
+2013,5,Spring,2,Women Jackets,0
+2013,5,Spring,2,Women Jeans,28
+2013,5,Spring,2,Men Casual Shorts,40
+2013,5,Spring,2,Men Cargo Shorts,24
+2013,5,Spring,2,Men Jeans,36
+2013,5,Spring,2,Men Jackets,0
+2013,6,Summer,0,Frocks,6
+2013,6,Summer,0,Women Hoodies,3
+2013,6,Summer,0,Men Hoodies,7
+2013,6,Summer,0,Men Shirts,8
+2013,6,Summer,0,Women Shirts,9
+2013,6,Summer,0,Men T-shirts,8
+2013,6,Summer,0,Women T-shirts,5
+2013,6,Summer,0,Skirts,5
+2013,6,Summer,0,Men Suits,1
+2013,6,Summer,0,Women Suits,9
+2013,6,Summer,0,Blouses,9
+2013,6,Summer,0,Women Jackets,0
+2013,6,Summer,0,Women Jeans,7
+2013,6,Summer,0,Men Casual Shorts,2
+2013,6,Summer,0,Men Cargo Shorts,1
+2013,6,Summer,0,Men Jeans,9
+2013,6,Summer,0,Men Jackets,0
+2013,7,Summer,0,Frocks,1
+2013,7,Summer,0,Women Hoodies,8
+2013,7,Summer,0,Men Hoodies,3
+2013,7,Summer,0,Men Shirts,3
+2013,7,Summer,0,Women Shirts,8
+2013,7,Summer,0,Men T-shirts,6
+2013,7,Summer,0,Women T-shirts,2
+2013,7,Summer,0,Skirts,4
+2013,7,Summer,0,Men Suits,9
+2013,7,Summer,0,Women Suits,8
+2013,7,Summer,0,Blouses,1
+2013,7,Summer,0,Women Jackets,0
+2013,7,Summer,0,Women Jeans,6
+2013,7,Summer,0,Men Casual Shorts,1
+2013,7,Summer,0,Men Cargo Shorts,10
+2013,7,Summer,0,Men Jeans,9
+2013,7,Summer,0,Men Jackets,0
+2013,8,Summer,0,Frocks,7
+2013,8,Summer,0,Women Hoodies,2
+2013,8,Summer,0,Men Hoodies,9
+2013,8,Summer,0,Men Shirts,1
+2013,8,Summer,0,Women Shirts,9
+2013,8,Summer,0,Men T-shirts,3
+2013,8,Summer,0,Women T-shirts,8
+2013,8,Summer,0,Skirts,9
+2013,8,Summer,0,Men Suits,5
+2013,8,Summer,0,Women Suits,9
+2013,8,Summer,0,Blouses,4
+2013,8,Summer,0,Women Jackets,0
+2013,8,Summer,0,Women Jeans,9
+2013,8,Summer,0,Men Casual Shorts,9
+2013,8,Summer,0,Men Cargo Shorts,5
+2013,8,Summer,0,Men Jeans,8
+2013,8,Summer,0,Men Jackets,0
+2013,9,Autumn,0,Frocks,10
+2013,9,Autumn,0,Women Hoodies,2
+2013,9,Autumn,0,Men Hoodies,5
+2013,9,Autumn,0,Men Shirts,9
+2013,9,Autumn,0,Women Shirts,9
+2013,9,Autumn,0,Men T-shirts,3
+2013,9,Autumn,0,Women T-shirts,8
+2013,9,Autumn,0,Skirts,5
+2013,9,Autumn,0,Men Suits,1
+2013,9,Autumn,0,Women Suits,10
+2013,9,Autumn,0,Blouses,10
+2013,9,Autumn,0,Women Jackets,0
+2013,9,Autumn,0,Women Jeans,4
+2013,9,Autumn,0,Men Casual Shorts,10
+2013,9,Autumn,0,Men Cargo Shorts,9
+2013,9,Autumn,0,Men Jeans,9
+2013,9,Autumn,0,Men Jackets,0
+2013,10,Autumn,0,Frocks,1
+2013,10,Autumn,0,Women Hoodies,10
+2013,10,Autumn,0,Men Hoodies,8
+2013,10,Autumn,0,Men Shirts,6
+2013,10,Autumn,0,Women Shirts,9
+2013,10,Autumn,0,Men T-shirts,5
+2013,10,Autumn,0,Women T-shirts,10
+2013,10,Autumn,0,Skirts,10
+2013,10,Autumn,0,Men Suits,3
+2013,10,Autumn,0,Women Suits,10
+2013,10,Autumn,0,Blouses,6
+2013,10,Autumn,0,Women Jackets,0
+2013,10,Autumn,0,Women Jeans,8
+2013,10,Autumn,0,Men Casual Shorts,4
+2013,10,Autumn,0,Men Cargo Shorts,1
+2013,10,Autumn,0,Men Jeans,5
+2013,10,Autumn,0,Men Jackets,0
+2013,11,Autumn,0,Frocks,3
+2013,11,Autumn,0,Women Hoodies,8
+2013,11,Autumn,0,Men Hoodies,8
+2013,11,Autumn,0,Men Shirts,5
+2013,11,Autumn,0,Women Shirts,6
+2013,11,Autumn,0,Men T-shirts,3
+2013,11,Autumn,0,Women T-shirts,4
+2013,11,Autumn,0,Skirts,5
+2013,11,Autumn,0,Men Suits,2
+2013,11,Autumn,0,Women Suits,3
+2013,11,Autumn,0,Blouses,3
+2013,11,Autumn,0,Women Jackets,0
+2013,11,Autumn,0,Women Jeans,5
+2013,11,Autumn,0,Men Casual Shorts,5
+2013,11,Autumn,0,Men Cargo Shorts,6
+2013,11,Autumn,0,Men Jeans,2
+2013,11,Autumn,0,Men Jackets,0
+2013,12,Winter,3,Frocks,36
+2013,12,Winter,3,Women Hoodies,120
+2013,12,Winter,3,Men Hoodies,60
+2013,12,Winter,3,Men Shirts,32
+2013,12,Winter,3,Women Shirts,28
+2013,12,Winter,3,Men T-shirts,40
+2013,12,Winter,3,Women T-shirts,20
+2013,12,Winter,3,Skirts,20
+2013,12,Winter,3,Men Suits,24
+2013,12,Winter,3,Women Suits,32
+2013,12,Winter,3,Blouses,20
+2013,12,Winter,3,Women Jackets,72
+2013,12,Winter,3,Women Jeans,20
+2013,12,Winter,3,Men Casual Shorts,24
+2013,12,Winter,3,Men Cargo Shorts,32
+2013,12,Winter,3,Men Jeans,20
+2013,12,Winter,3,Men Jackets,108
+2014,1,Winter,1,Frocks,40
+2014,1,Winter,1,Women Hoodies,96
+2014,1,Winter,1,Men Hoodies,72
+2014,1,Winter,1,Men Shirts,40
+2014,1,Winter,1,Women Shirts,20
+2014,1,Winter,1,Men T-shirts,20
+2014,1,Winter,1,Women T-shirts,36
+2014,1,Winter,1,Skirts,40
+2014,1,Winter,1,Men Suits,36
+2014,1,Winter,1,Women Suits,24
+2014,1,Winter,1,Blouses,20
+2014,1,Winter,1,Women Jackets,60
+2014,1,Winter,1,Women Jeans,36
+2014,1,Winter,1,Men Casual Shorts,20
+2014,1,Winter,1,Men Cargo Shorts,28
+2014,1,Winter,1,Men Jeans,28
+2014,1,Winter,1,Men Jackets,120
+2014,2,Winter,0,Frocks,5
+2014,2,Winter,0,Women Hoodies,30
+2014,2,Winter,0,Men Hoodies,9
+2014,2,Winter,0,Men Shirts,7
+2014,2,Winter,0,Women Shirts,7
+2014,2,Winter,0,Men T-shirts,6
+2014,2,Winter,0,Women T-shirts,5
+2014,2,Winter,0,Skirts,4
+2014,2,Winter,0,Men Suits,4
+2014,2,Winter,0,Women Suits,5
+2014,2,Winter,0,Blouses,5
+2014,2,Winter,0,Women Jackets,18
+2014,2,Winter,0,Women Jeans,7
+2014,2,Winter,0,Men Casual Shorts,8
+2014,2,Winter,0,Men Cargo Shorts,2
+2014,2,Winter,0,Men Jeans,4
+2014,2,Winter,0,Men Jackets,3
+2014,3,Spring,1,Frocks,32
+2014,3,Spring,1,Women Hoodies,28
+2014,3,Spring,1,Men Hoodies,24
+2014,3,Spring,1,Men Shirts,32
+2014,3,Spring,1,Women Shirts,20
+2014,3,Spring,1,Men T-shirts,40
+2014,3,Spring,1,Women T-shirts,24
+2014,3,Spring,1,Skirts,32
+2014,3,Spring,1,Men Suits,40
+2014,3,Spring,1,Women Suits,40
+2014,3,Spring,1,Blouses,20
+2014,3,Spring,1,Women Jackets,0
+2014,3,Spring,1,Women Jeans,40
+2014,3,Spring,1,Men Casual Shorts,36
+2014,3,Spring,1,Men Cargo Shorts,36
+2014,3,Spring,1,Men Jeans,40
+2014,3,Spring,1,Men Jackets,0
+2014,4,Spring,2,Frocks,28
+2014,4,Spring,2,Women Hoodies,24
+2014,4,Spring,2,Men Hoodies,20
+2014,4,Spring,2,Men Shirts,32
+2014,4,Spring,2,Women Shirts,40
+2014,4,Spring,2,Men T-shirts,32
+2014,4,Spring,2,Women T-shirts,40
+2014,4,Spring,2,Skirts,36
+2014,4,Spring,2,Men Suits,36
+2014,4,Spring,2,Women Suits,36
+2014,4,Spring,2,Blouses,36
+2014,4,Spring,2,Women Jackets,0
+2014,4,Spring,2,Women Jeans,36
+2014,4,Spring,2,Men Casual Shorts,36
+2014,4,Spring,2,Men Cargo Shorts,24
+2014,4,Spring,2,Men Jeans,28
+2014,4,Spring,2,Men Jackets,0
+2014,5,Spring,2,Frocks,36
+2014,5,Spring,2,Women Hoodies,24
+2014,5,Spring,2,Men Hoodies,32
+2014,5,Spring,2,Men Shirts,40
+2014,5,Spring,2,Women Shirts,36
+2014,5,Spring,2,Men T-shirts,24
+2014,5,Spring,2,Women T-shirts,20
+2014,5,Spring,2,Skirts,32
+2014,5,Spring,2,Men Suits,36
+2014,5,Spring,2,Women Suits,40
+2014,5,Spring,2,Blouses,32
+2014,5,Spring,2,Women Jackets,0
+2014,5,Spring,2,Women Jeans,40
+2014,5,Spring,2,Men Casual Shorts,28
+2014,5,Spring,2,Men Cargo Shorts,36
+2014,5,Spring,2,Men Jeans,20
+2014,5,Spring,2,Men Jackets,0
+2014,6,Summer,0,Frocks,10
+2014,6,Summer,0,Women Hoodies,4
+2014,6,Summer,0,Men Hoodies,1
+2014,6,Summer,0,Men Shirts,7
+2014,6,Summer,0,Women Shirts,4
+2014,6,Summer,0,Men T-shirts,5
+2014,6,Summer,0,Women T-shirts,9
+2014,6,Summer,0,Skirts,3
+2014,6,Summer,0,Men Suits,10
+2014,6,Summer,0,Women Suits,9
+2014,6,Summer,0,Blouses,10
+2014,6,Summer,0,Women Jackets,0
+2014,6,Summer,0,Women Jeans,2
+2014,6,Summer,0,Men Casual Shorts,2
+2014,6,Summer,0,Men Cargo Shorts,2
+2014,6,Summer,0,Men Jeans,8
+2014,6,Summer,0,Men Jackets,0
+2014,7,Summer,0,Frocks,5
+2014,7,Summer,0,Women Hoodies,1
+2014,7,Summer,0,Men Hoodies,4
+2014,7,Summer,0,Men Shirts,6
+2014,7,Summer,0,Women Shirts,6
+2014,7,Summer,0,Men T-shirts,9
+2014,7,Summer,0,Women T-shirts,3
+2014,7,Summer,0,Skirts,7
+2014,7,Summer,0,Men Suits,4
+2014,7,Summer,0,Women Suits,2
+2014,7,Summer,0,Blouses,3
+2014,7,Summer,0,Women Jackets,0
+2014,7,Summer,0,Women Jeans,2
+2014,7,Summer,0,Men Casual Shorts,9
+2014,7,Summer,0,Men Cargo Shorts,1
+2014,7,Summer,0,Men Jeans,7
+2014,7,Summer,0,Men Jackets,0
+2014,8,Summer,0,Frocks,5
+2014,8,Summer,0,Women Hoodies,1
+2014,8,Summer,0,Men Hoodies,3
+2014,8,Summer,0,Men Shirts,5
+2014,8,Summer,0,Women Shirts,7
+2014,8,Summer,0,Men T-shirts,7
+2014,8,Summer,0,Women T-shirts,5
+2014,8,Summer,0,Skirts,3
+2014,8,Summer,0,Men Suits,1
+2014,8,Summer,0,Women Suits,9
+2014,8,Summer,0,Blouses,2
+2014,8,Summer,0,Women Jackets,0
+2014,8,Summer,0,Women Jeans,2
+2014,8,Summer,0,Men Casual Shorts,4
+2014,8,Summer,0,Men Cargo Shorts,10
+2014,8,Summer,0,Men Jeans,1
+2014,8,Summer,0,Men Jackets,0
+2014,9,Autumn,0,Frocks,4
+2014,9,Autumn,0,Women Hoodies,10
+2014,9,Autumn,0,Men Hoodies,5
+2014,9,Autumn,0,Men Shirts,3
+2014,9,Autumn,0,Women Shirts,9
+2014,9,Autumn,0,Men T-shirts,3
+2014,9,Autumn,0,Women T-shirts,2
+2014,9,Autumn,0,Skirts,5
+2014,9,Autumn,0,Men Suits,4
+2014,9,Autumn,0,Women Suits,7
+2014,9,Autumn,0,Blouses,8
+2014,9,Autumn,0,Women Jackets,0
+2014,9,Autumn,0,Women Jeans,5
+2014,9,Autumn,0,Men Casual Shorts,3
+2014,9,Autumn,0,Men Cargo Shorts,7
+2014,9,Autumn,0,Men Jeans,10
+2014,9,Autumn,0,Men Jackets,0
+2014,10,Autumn,0,Frocks,8
+2014,10,Autumn,0,Women Hoodies,5
+2014,10,Autumn,0,Men Hoodies,1
+2014,10,Autumn,0,Men Shirts,9
+2014,10,Autumn,0,Women Shirts,1
+2014,10,Autumn,0,Men T-shirts,10
+2014,10,Autumn,0,Women T-shirts,5
+2014,10,Autumn,0,Skirts,1
+2014,10,Autumn,0,Men Suits,9
+2014,10,Autumn,0,Women Suits,7
+2014,10,Autumn,0,Blouses,2
+2014,10,Autumn,0,Women Jackets,0
+2014,10,Autumn,0,Women Jeans,5
+2014,10,Autumn,0,Men Casual Shorts,5
+2014,10,Autumn,0,Men Cargo Shorts,10
+2014,10,Autumn,0,Men Jeans,9
+2014,10,Autumn,0,Men Jackets,0
+2014,11,Autumn,0,Frocks,5
+2014,11,Autumn,0,Women Hoodies,10
+2014,11,Autumn,0,Men Hoodies,9
+2014,11,Autumn,0,Men Shirts,10
+2014,11,Autumn,0,Women Shirts,9
+2014,11,Autumn,0,Men T-shirts,5
+2014,11,Autumn,0,Women T-shirts,6
+2014,11,Autumn,0,Skirts,4
+2014,11,Autumn,0,Men Suits,9
+2014,11,Autumn,0,Women Suits,9
+2014,11,Autumn,0,Blouses,4
+2014,11,Autumn,0,Women Jackets,0
+2014,11,Autumn,0,Women Jeans,6
+2014,11,Autumn,0,Men Casual Shorts,3
+2014,11,Autumn,0,Men Cargo Shorts,6
+2014,11,Autumn,0,Men Jeans,6
+2014,11,Autumn,0,Men Jackets,0
+2014,12,Winter,3,Frocks,32
+2014,12,Winter,3,Women Hoodies,96
+2014,12,Winter,3,Men Hoodies,108
+2014,12,Winter,3,Men Shirts,24
+2014,12,Winter,3,Women Shirts,28
+2014,12,Winter,3,Men T-shirts,28
+2014,12,Winter,3,Women T-shirts,28
+2014,12,Winter,3,Skirts,24
+2014,12,Winter,3,Men Suits,36
+2014,12,Winter,3,Women Suits,36
+2014,12,Winter,3,Blouses,32
+2014,12,Winter,3,Women Jackets,60
+2014,12,Winter,3,Women Jeans,36
+2014,12,Winter,3,Men Casual Shorts,40
+2014,12,Winter,3,Men Cargo Shorts,40
+2014,12,Winter,3,Men Jeans,36
+2014,12,Winter,3,Men Jackets,60
+2015,1,Winter,1,Frocks,28
+2015,1,Winter,1,Women Hoodies,72
+2015,1,Winter,1,Men Hoodies,96
+2015,1,Winter,1,Men Shirts,36
+2015,1,Winter,1,Women Shirts,24
+2015,1,Winter,1,Men T-shirts,40
+2015,1,Winter,1,Women T-shirts,28
+2015,1,Winter,1,Skirts,40
+2015,1,Winter,1,Men Suits,28
+2015,1,Winter,1,Women Suits,32
+2015,1,Winter,1,Blouses,20
+2015,1,Winter,1,Women Jackets,96
+2015,1,Winter,1,Women Jeans,20
+2015,1,Winter,1,Men Casual Shorts,32
+2015,1,Winter,1,Men Cargo Shorts,36
+2015,1,Winter,1,Men Jeans,24
+2015,1,Winter,1,Men Jackets,96
+2015,2,Winter,0,Frocks,3
+2015,2,Winter,0,Women Hoodies,21
+2015,2,Winter,0,Men Hoodies,15
+2015,2,Winter,0,Men Shirts,10
+2015,2,Winter,0,Women Shirts,7
+2015,2,Winter,0,Men T-shirts,5
+2015,2,Winter,0,Women T-shirts,3
+2015,2,Winter,0,Skirts,3
+2015,2,Winter,0,Men Suits,5
+2015,2,Winter,0,Women Suits,1
+2015,2,Winter,0,Blouses,9
+2015,2,Winter,0,Women Jackets,6
+2015,2,Winter,0,Women Jeans,6
+2015,2,Winter,0,Men Casual Shorts,3
+2015,2,Winter,0,Men Cargo Shorts,2
+2015,2,Winter,0,Men Jeans,5
+2015,2,Winter,0,Men Jackets,21
+2015,3,Spring,1,Frocks,24
+2015,3,Spring,1,Women Hoodies,32
+2015,3,Spring,1,Men Hoodies,28
+2015,3,Spring,1,Men Shirts,32
+2015,3,Spring,1,Women Shirts,32
+2015,3,Spring,1,Men T-shirts,32
+2015,3,Spring,1,Women T-shirts,28
+2015,3,Spring,1,Skirts,40
+2015,3,Spring,1,Men Suits,28
+2015,3,Spring,1,Women Suits,20
+2015,3,Spring,1,Blouses,24
+2015,3,Spring,1,Women Jackets,0
+2015,3,Spring,1,Women Jeans,20
+2015,3,Spring,1,Men Casual Shorts,40
+2015,3,Spring,1,Men Cargo Shorts,24
+2015,3,Spring,1,Men Jeans,32
+2015,3,Spring,1,Men Jackets,0
+2015,4,Spring,2,Frocks,36
+2015,4,Spring,2,Women Hoodies,28
+2015,4,Spring,2,Men Hoodies,32
+2015,4,Spring,2,Men Shirts,20
+2015,4,Spring,2,Women Shirts,24
+2015,4,Spring,2,Men T-shirts,36
+2015,4,Spring,2,Women T-shirts,20
+2015,4,Spring,2,Skirts,36
+2015,4,Spring,2,Men Suits,36
+2015,4,Spring,2,Women Suits,40
+2015,4,Spring,2,Blouses,36
+2015,4,Spring,2,Women Jackets,0
+2015,4,Spring,2,Women Jeans,40
+2015,4,Spring,2,Men Casual Shorts,32
+2015,4,Spring,2,Men Cargo Shorts,28
+2015,4,Spring,2,Men Jeans,36
+2015,4,Spring,2,Men Jackets,0
+2015,5,Spring,2,Frocks,20
+2015,5,Spring,2,Women Hoodies,24
+2015,5,Spring,2,Men Hoodies,32
+2015,5,Spring,2,Men Shirts,28
+2015,5,Spring,2,Women Shirts,20
+2015,5,Spring,2,Men T-shirts,40
+2015,5,Spring,2,Women T-shirts,28
+2015,5,Spring,2,Skirts,36
+2015,5,Spring,2,Men Suits,24
+2015,5,Spring,2,Women Suits,20
+2015,5,Spring,2,Blouses,28
+2015,5,Spring,2,Women Jackets,0
+2015,5,Spring,2,Women Jeans,24
+2015,5,Spring,2,Men Casual Shorts,20
+2015,5,Spring,2,Men Cargo Shorts,40
+2015,5,Spring,2,Men Jeans,40
+2015,5,Spring,2,Men Jackets,0
+2015,6,Summer,0,Frocks,3
+2015,6,Summer,0,Women Hoodies,2
+2015,6,Summer,0,Men Hoodies,9
+2015,6,Summer,0,Men Shirts,2
+2015,6,Summer,0,Women Shirts,10
+2015,6,Summer,0,Men T-shirts,3
+2015,6,Summer,0,Women T-shirts,6
+2015,6,Summer,0,Skirts,1
+2015,6,Summer,0,Men Suits,3
+2015,6,Summer,0,Women Suits,5
+2015,6,Summer,0,Blouses,2
+2015,6,Summer,0,Women Jackets,0
+2015,6,Summer,0,Women Jeans,9
+2015,6,Summer,0,Men Casual Shorts,9
+2015,6,Summer,0,Men Cargo Shorts,10
+2015,6,Summer,0,Men Jeans,10
+2015,6,Summer,0,Men Jackets,0
+2015,7,Summer,0,Frocks,8
+2015,7,Summer,0,Women Hoodies,8
+2015,7,Summer,0,Men Hoodies,1
+2015,7,Summer,0,Men Shirts,5
+2015,7,Summer,0,Women Shirts,9
+2015,7,Summer,0,Men T-shirts,5
+2015,7,Summer,0,Women T-shirts,1
+2015,7,Summer,0,Skirts,8
+2015,7,Summer,0,Men Suits,1
+2015,7,Summer,0,Women Suits,1
+2015,7,Summer,0,Blouses,4
+2015,7,Summer,0,Women Jackets,0
+2015,7,Summer,0,Women Jeans,5
+2015,7,Summer,0,Men Casual Shorts,10
+2015,7,Summer,0,Men Cargo Shorts,8
+2015,7,Summer,0,Men Jeans,6
+2015,7,Summer,0,Men Jackets,0
+2015,8,Summer,0,Frocks,8
+2015,8,Summer,0,Women Hoodies,7
+2015,8,Summer,0,Men Hoodies,4
+2015,8,Summer,0,Men Shirts,4
+2015,8,Summer,0,Women Shirts,1
+2015,8,Summer,0,Men T-shirts,3
+2015,8,Summer,0,Women T-shirts,8
+2015,8,Summer,0,Skirts,5
+2015,8,Summer,0,Men Suits,8
+2015,8,Summer,0,Women Suits,4
+2015,8,Summer,0,Blouses,2
+2015,8,Summer,0,Women Jackets,0
+2015,8,Summer,0,Women Jeans,4
+2015,8,Summer,0,Men Casual Shorts,2
+2015,8,Summer,0,Men Cargo Shorts,1
+2015,8,Summer,0,Men Jeans,6
+2015,8,Summer,0,Men Jackets,0
+2015,9,Autumn,0,Frocks,2
+2015,9,Autumn,0,Women Hoodies,1
+2015,9,Autumn,0,Men Hoodies,10
+2015,9,Autumn,0,Men Shirts,8
+2015,9,Autumn,0,Women Shirts,9
+2015,9,Autumn,0,Men T-shirts,4
+2015,9,Autumn,0,Women T-shirts,10
+2015,9,Autumn,0,Skirts,3
+2015,9,Autumn,0,Men Suits,6
+2015,9,Autumn,0,Women Suits,6
+2015,9,Autumn,0,Blouses,4
+2015,9,Autumn,0,Women Jackets,0
+2015,9,Autumn,0,Women Jeans,6
+2015,9,Autumn,0,Men Casual Shorts,2
+2015,9,Autumn,0,Men Cargo Shorts,4
+2015,9,Autumn,0,Men Jeans,6
+2015,9,Autumn,0,Men Jackets,0
+2015,10,Autumn,0,Frocks,1
+2015,10,Autumn,0,Women Hoodies,5
+2015,10,Autumn,0,Men Hoodies,8
+2015,10,Autumn,0,Men Shirts,7
+2015,10,Autumn,0,Women Shirts,7
+2015,10,Autumn,0,Men T-shirts,8
+2015,10,Autumn,0,Women T-shirts,8
+2015,10,Autumn,0,Skirts,6
+2015,10,Autumn,0,Men Suits,6
+2015,10,Autumn,0,Women Suits,6
+2015,10,Autumn,0,Blouses,3
+2015,10,Autumn,0,Women Jackets,0
+2015,10,Autumn,0,Women Jeans,1
+2015,10,Autumn,0,Men Casual Shorts,5
+2015,10,Autumn,0,Men Cargo Shorts,1
+2015,10,Autumn,0,Men Jeans,3
+2015,10,Autumn,0,Men Jackets,0
+2015,11,Autumn,0,Frocks,9
+2015,11,Autumn,0,Women Hoodies,7
+2015,11,Autumn,0,Men Hoodies,4
+2015,11,Autumn,0,Men Shirts,7
+2015,11,Autumn,0,Women Shirts,7
+2015,11,Autumn,0,Men T-shirts,3
+2015,11,Autumn,0,Women T-shirts,9
+2015,11,Autumn,0,Skirts,5
+2015,11,Autumn,0,Men Suits,1
+2015,11,Autumn,0,Women Suits,8
+2015,11,Autumn,0,Blouses,5
+2015,11,Autumn,0,Women Jackets,0
+2015,11,Autumn,0,Women Jeans,9
+2015,11,Autumn,0,Men Casual Shorts,7
+2015,11,Autumn,0,Men Cargo Shorts,6
+2015,11,Autumn,0,Men Jeans,10
+2015,11,Autumn,0,Men Jackets,0
+2015,12,Winter,3,Frocks,28
+2015,12,Winter,3,Women Hoodies,84
+2015,12,Winter,3,Men Hoodies,72
+2015,12,Winter,3,Men Shirts,32
+2015,12,Winter,3,Women Shirts,40
+2015,12,Winter,3,Men T-shirts,36
+2015,12,Winter,3,Women T-shirts,40
+2015,12,Winter,3,Skirts,36
+2015,12,Winter,3,Men Suits,20
+2015,12,Winter,3,Women Suits,32
+2015,12,Winter,3,Blouses,36
+2015,12,Winter,3,Women Jackets,120
+2015,12,Winter,3,Women Jeans,32
+2015,12,Winter,3,Men Casual Shorts,24
+2015,12,Winter,3,Men Cargo Shorts,32
+2015,12,Winter,3,Men Jeans,24
+2015,12,Winter,3,Men Jackets,120
+2016,1,Winter,1,Frocks,20
+2016,1,Winter,1,Women Hoodies,84
+2016,1,Winter,1,Men Hoodies,120
+2016,1,Winter,1,Men Shirts,24
+2016,1,Winter,1,Women Shirts,36
+2016,1,Winter,1,Men T-shirts,28
+2016,1,Winter,1,Women T-shirts,24
+2016,1,Winter,1,Skirts,32
+2016,1,Winter,1,Men Suits,28
+2016,1,Winter,1,Women Suits,32
+2016,1,Winter,1,Blouses,32
+2016,1,Winter,1,Women Jackets,60
+2016,1,Winter,1,Women Jeans,28
+2016,1,Winter,1,Men Casual Shorts,24
+2016,1,Winter,1,Men Cargo Shorts,24
+2016,1,Winter,1,Men Jeans,40
+2016,1,Winter,1,Men Jackets,72
+2016,2,Winter,0,Frocks,10
+2016,2,Winter,0,Women Hoodies,6
+2016,2,Winter,0,Men Hoodies,15
+2016,2,Winter,0,Men Shirts,8
+2016,2,Winter,0,Women Shirts,4
+2016,2,Winter,0,Men T-shirts,2
+2016,2,Winter,0,Women T-shirts,7
+2016,2,Winter,0,Skirts,2
+2016,2,Winter,0,Men Suits,2
+2016,2,Winter,0,Women Suits,10
+2016,2,Winter,0,Blouses,3
+2016,2,Winter,0,Women Jackets,24
+2016,2,Winter,0,Women Jeans,8
+2016,2,Winter,0,Men Casual Shorts,2
+2016,2,Winter,0,Men Cargo Shorts,7
+2016,2,Winter,0,Men Jeans,10
+2016,2,Winter,0,Men Jackets,9
+2016,3,Spring,1,Frocks,20
+2016,3,Spring,1,Women Hoodies,28
+2016,3,Spring,1,Men Hoodies,32
+2016,3,Spring,1,Men Shirts,28
+2016,3,Spring,1,Women Shirts,28
+2016,3,Spring,1,Men T-shirts,32
+2016,3,Spring,1,Women T-shirts,32
+2016,3,Spring,1,Skirts,28
+2016,3,Spring,1,Men Suits,20
+2016,3,Spring,1,Women Suits,28
+2016,3,Spring,1,Blouses,28
+2016,3,Spring,1,Women Jackets,0
+2016,3,Spring,1,Women Jeans,40
+2016,3,Spring,1,Men Casual Shorts,28
+2016,3,Spring,1,Men Cargo Shorts,28
+2016,3,Spring,1,Men Jeans,24
+2016,3,Spring,1,Men Jackets,0
+2016,4,Spring,2,Frocks,20
+2016,4,Spring,2,Women Hoodies,36
+2016,4,Spring,2,Men Hoodies,28
+2016,4,Spring,2,Men Shirts,28
+2016,4,Spring,2,Women Shirts,32
+2016,4,Spring,2,Men T-shirts,20
+2016,4,Spring,2,Women T-shirts,20
+2016,4,Spring,2,Skirts,40
+2016,4,Spring,2,Men Suits,28
+2016,4,Spring,2,Women Suits,28
+2016,4,Spring,2,Blouses,40
+2016,4,Spring,2,Women Jackets,0
+2016,4,Spring,2,Women Jeans,28
+2016,4,Spring,2,Men Casual Shorts,28
+2016,4,Spring,2,Men Cargo Shorts,40
+2016,4,Spring,2,Men Jeans,28
+2016,4,Spring,2,Men Jackets,0
+2016,5,Spring,2,Frocks,20
+2016,5,Spring,2,Women Hoodies,40
+2016,5,Spring,2,Men Hoodies,20
+2016,5,Spring,2,Men Shirts,28
+2016,5,Spring,2,Women Shirts,28
+2016,5,Spring,2,Men T-shirts,32
+2016,5,Spring,2,Women T-shirts,40
+2016,5,Spring,2,Skirts,36
+2016,5,Spring,2,Men Suits,40
+2016,5,Spring,2,Women Suits,20
+2016,5,Spring,2,Blouses,28
+2016,5,Spring,2,Women Jackets,0
+2016,5,Spring,2,Women Jeans,40
+2016,5,Spring,2,Men Casual Shorts,36
+2016,5,Spring,2,Men Cargo Shorts,32
+2016,5,Spring,2,Men Jeans,24
+2016,5,Spring,2,Men Jackets,0
+2016,6,Summer,0,Frocks,5
+2016,6,Summer,0,Women Hoodies,8
+2016,6,Summer,0,Men Hoodies,8
+2016,6,Summer,0,Men Shirts,1
+2016,6,Summer,0,Women Shirts,1
+2016,6,Summer,0,Men T-shirts,1
+2016,6,Summer,0,Women T-shirts,7
+2016,6,Summer,0,Skirts,5
+2016,6,Summer,0,Men Suits,3
+2016,6,Summer,0,Women Suits,4
+2016,6,Summer,0,Blouses,4
+2016,6,Summer,0,Women Jackets,0
+2016,6,Summer,0,Women Jeans,7
+2016,6,Summer,0,Men Casual Shorts,7
+2016,6,Summer,0,Men Cargo Shorts,7
+2016,6,Summer,0,Men Jeans,2
+2016,6,Summer,0,Men Jackets,0
+2016,7,Summer,0,Frocks,10
+2016,7,Summer,0,Women Hoodies,10
+2016,7,Summer,0,Men Hoodies,2
+2016,7,Summer,0,Men Shirts,8
+2016,7,Summer,0,Women Shirts,6
+2016,7,Summer,0,Men T-shirts,6
+2016,7,Summer,0,Women T-shirts,4
+2016,7,Summer,0,Skirts,8
+2016,7,Summer,0,Men Suits,1
+2016,7,Summer,0,Women Suits,5
+2016,7,Summer,0,Blouses,4
+2016,7,Summer,0,Women Jackets,0
+2016,7,Summer,0,Women Jeans,10
+2016,7,Summer,0,Men Casual Shorts,6
+2016,7,Summer,0,Men Cargo Shorts,5
+2016,7,Summer,0,Men Jeans,4
+2016,7,Summer,0,Men Jackets,0
+2016,8,Summer,0,Frocks,8
+2016,8,Summer,0,Women Hoodies,6
+2016,8,Summer,0,Men Hoodies,2
+2016,8,Summer,0,Men Shirts,4
+2016,8,Summer,0,Women Shirts,2
+2016,8,Summer,0,Men T-shirts,10
+2016,8,Summer,0,Women T-shirts,1
+2016,8,Summer,0,Skirts,6
+2016,8,Summer,0,Men Suits,4
+2016,8,Summer,0,Women Suits,8
+2016,8,Summer,0,Blouses,9
+2016,8,Summer,0,Women Jackets,0
+2016,8,Summer,0,Women Jeans,7
+2016,8,Summer,0,Men Casual Shorts,8
+2016,8,Summer,0,Men Cargo Shorts,5
+2016,8,Summer,0,Men Jeans,5
+2016,8,Summer,0,Men Jackets,0
+2016,9,Autumn,0,Frocks,7
+2016,9,Autumn,0,Women Hoodies,5
+2016,9,Autumn,0,Men Hoodies,5
+2016,9,Autumn,0,Men Shirts,2
+2016,9,Autumn,0,Women Shirts,10
+2016,9,Autumn,0,Men T-shirts,10
+2016,9,Autumn,0,Women T-shirts,8
+2016,9,Autumn,0,Skirts,8
+2016,9,Autumn,0,Men Suits,6
+2016,9,Autumn,0,Women Suits,10
+2016,9,Autumn,0,Blouses,10
+2016,9,Autumn,0,Women Jackets,0
+2016,9,Autumn,0,Women Jeans,7
+2016,9,Autumn,0,Men Casual Shorts,3
+2016,9,Autumn,0,Men Cargo Shorts,4
+2016,9,Autumn,0,Men Jeans,8
+2016,9,Autumn,0,Men Jackets,0
+2016,10,Autumn,0,Frocks,10
+2016,10,Autumn,0,Women Hoodies,8
+2016,10,Autumn,0,Men Hoodies,4
+2016,10,Autumn,0,Men Shirts,9
+2016,10,Autumn,0,Women Shirts,8
+2016,10,Autumn,0,Men T-shirts,3
+2016,10,Autumn,0,Women T-shirts,7
+2016,10,Autumn,0,Skirts,1
+2016,10,Autumn,0,Men Suits,9
+2016,10,Autumn,0,Women Suits,2
+2016,10,Autumn,0,Blouses,4
+2016,10,Autumn,0,Women Jackets,0
+2016,10,Autumn,0,Women Jeans,7
+2016,10,Autumn,0,Men Casual Shorts,8
+2016,10,Autumn,0,Men Cargo Shorts,9
+2016,10,Autumn,0,Men Jeans,6
+2016,10,Autumn,0,Men Jackets,0
+2016,11,Autumn,0,Frocks,1
+2016,11,Autumn,0,Women Hoodies,10
+2016,11,Autumn,0,Men Hoodies,9
+2016,11,Autumn,0,Men Shirts,8
+2016,11,Autumn,0,Women Shirts,7
+2016,11,Autumn,0,Men T-shirts,9
+2016,11,Autumn,0,Women T-shirts,7
+2016,11,Autumn,0,Skirts,10
+2016,11,Autumn,0,Men Suits,10
+2016,11,Autumn,0,Women Suits,2
+2016,11,Autumn,0,Blouses,2
+2016,11,Autumn,0,Women Jackets,0
+2016,11,Autumn,0,Women Jeans,10
+2016,11,Autumn,0,Men Casual Shorts,3
+2016,11,Autumn,0,Men Cargo Shorts,8
+2016,11,Autumn,0,Men Jeans,9
+2016,11,Autumn,0,Men Jackets,0
+2016,12,Winter,3,Frocks,32
+2016,12,Winter,3,Women Hoodies,84
+2016,12,Winter,3,Men Hoodies,84
+2016,12,Winter,3,Men Shirts,20
+2016,12,Winter,3,Women Shirts,32
+2016,12,Winter,3,Men T-shirts,20
+2016,12,Winter,3,Women T-shirts,24
+2016,12,Winter,3,Skirts,24
+2016,12,Winter,3,Men Suits,36
+2016,12,Winter,3,Women Suits,20
+2016,12,Winter,3,Blouses,40
+2016,12,Winter,3,Women Jackets,96
+2016,12,Winter,3,Women Jeans,32
+2016,12,Winter,3,Men Casual Shorts,28
+2016,12,Winter,3,Men Cargo Shorts,28
+2016,12,Winter,3,Men Jeans,28
+2016,12,Winter,3,Men Jackets,120
+2017,1,Winter,1,Frocks,20
+2017,1,Winter,1,Women Hoodies,60
+2017,1,Winter,1,Men Hoodies,84
+2017,1,Winter,1,Men Shirts,40
+2017,1,Winter,1,Women Shirts,20
+2017,1,Winter,1,Men T-shirts,24
+2017,1,Winter,1,Women T-shirts,32
+2017,1,Winter,1,Skirts,32
+2017,1,Winter,1,Men Suits,28
+2017,1,Winter,1,Women Suits,40
+2017,1,Winter,1,Blouses,36
+2017,1,Winter,1,Women Jackets,60
+2017,1,Winter,1,Women Jeans,28
+2017,1,Winter,1,Men Casual Shorts,20
+2017,1,Winter,1,Men Cargo Shorts,24
+2017,1,Winter,1,Men Jeans,32
+2017,1,Winter,1,Men Jackets,72
+2017,2,Winter,0,Frocks,1
+2017,2,Winter,0,Women Hoodies,6
+2017,2,Winter,0,Men Hoodies,18
+2017,2,Winter,0,Men Shirts,9
+2017,2,Winter,0,Women Shirts,1
+2017,2,Winter,0,Men T-shirts,10
+2017,2,Winter,0,Women T-shirts,7
+2017,2,Winter,0,Skirts,2
+2017,2,Winter,0,Men Suits,4
+2017,2,Winter,0,Women Suits,7
+2017,2,Winter,0,Blouses,10
+2017,2,Winter,0,Women Jackets,27
+2017,2,Winter,0,Women Jeans,9
+2017,2,Winter,0,Men Casual Shorts,6
+2017,2,Winter,0,Men Cargo Shorts,8
+2017,2,Winter,0,Men Jeans,1
+2017,2,Winter,0,Men Jackets,6
+2017,3,Spring,1,Frocks,36
+2017,3,Spring,1,Women Hoodies,28
+2017,3,Spring,1,Men Hoodies,20
+2017,3,Spring,1,Men Shirts,36
+2017,3,Spring,1,Women Shirts,32
+2017,3,Spring,1,Men T-shirts,32
+2017,3,Spring,1,Women T-shirts,32
+2017,3,Spring,1,Skirts,40
+2017,3,Spring,1,Men Suits,20
+2017,3,Spring,1,Women Suits,28
+2017,3,Spring,1,Blouses,20
+2017,3,Spring,1,Women Jackets,0
+2017,3,Spring,1,Women Jeans,20
+2017,3,Spring,1,Men Casual Shorts,32
+2017,3,Spring,1,Men Cargo Shorts,40
+2017,3,Spring,1,Men Jeans,24
+2017,3,Spring,1,Men Jackets,0
+2017,4,Spring,2,Frocks,28
+2017,4,Spring,2,Women Hoodies,20
+2017,4,Spring,2,Men Hoodies,40
+2017,4,Spring,2,Men Shirts,20
+2017,4,Spring,2,Women Shirts,36
+2017,4,Spring,2,Men T-shirts,32
+2017,4,Spring,2,Women T-shirts,28
+2017,4,Spring,2,Skirts,28
+2017,4,Spring,2,Men Suits,20
+2017,4,Spring,2,Women Suits,20
+2017,4,Spring,2,Blouses,20
+2017,4,Spring,2,Women Jackets,0
+2017,4,Spring,2,Women Jeans,40
+2017,4,Spring,2,Men Casual Shorts,32
+2017,4,Spring,2,Men Cargo Shorts,32
+2017,4,Spring,2,Men Jeans,32
+2017,4,Spring,2,Men Jackets,0
+2017,5,Spring,2,Frocks,36
+2017,5,Spring,2,Women Hoodies,36
+2017,5,Spring,2,Men Hoodies,40
+2017,5,Spring,2,Men Shirts,32
+2017,5,Spring,2,Women Shirts,36
+2017,5,Spring,2,Men T-shirts,28
+2017,5,Spring,2,Women T-shirts,24
+2017,5,Spring,2,Skirts,32
+2017,5,Spring,2,Men Suits,32
+2017,5,Spring,2,Women Suits,40
+2017,5,Spring,2,Blouses,20
+2017,5,Spring,2,Women Jackets,0
+2017,5,Spring,2,Women Jeans,32
+2017,5,Spring,2,Men Casual Shorts,40
+2017,5,Spring,2,Men Cargo Shorts,36
+2017,5,Spring,2,Men Jeans,40
+2017,5,Spring,2,Men Jackets,0
+2017,6,Summer,0,Frocks,2
+2017,6,Summer,0,Women Hoodies,9
+2017,6,Summer,0,Men Hoodies,10
+2017,6,Summer,0,Men Shirts,6
+2017,6,Summer,0,Women Shirts,6
+2017,6,Summer,0,Men T-shirts,8
+2017,6,Summer,0,Women T-shirts,7
+2017,6,Summer,0,Skirts,9
+2017,6,Summer,0,Men Suits,2
+2017,6,Summer,0,Women Suits,9
+2017,6,Summer,0,Blouses,8
+2017,6,Summer,0,Women Jackets,0
+2017,6,Summer,0,Women Jeans,9
+2017,6,Summer,0,Men Casual Shorts,10
+2017,6,Summer,0,Men Cargo Shorts,9
+2017,6,Summer,0,Men Jeans,2
+2017,6,Summer,0,Men Jackets,0
+2017,7,Summer,0,Frocks,2
+2017,7,Summer,0,Women Hoodies,7
+2017,7,Summer,0,Men Hoodies,5
+2017,7,Summer,0,Men Shirts,9
+2017,7,Summer,0,Women Shirts,7
+2017,7,Summer,0,Men T-shirts,6
+2017,7,Summer,0,Women T-shirts,5
+2017,7,Summer,0,Skirts,5
+2017,7,Summer,0,Men Suits,10
+2017,7,Summer,0,Women Suits,2
+2017,7,Summer,0,Blouses,6
+2017,7,Summer,0,Women Jackets,0
+2017,7,Summer,0,Women Jeans,6
+2017,7,Summer,0,Men Casual Shorts,8
+2017,7,Summer,0,Men Cargo Shorts,7
+2017,7,Summer,0,Men Jeans,9
+2017,7,Summer,0,Men Jackets,0
+2017,8,Summer,0,Frocks,6
+2017,8,Summer,0,Women Hoodies,4
+2017,8,Summer,0,Men Hoodies,6
+2017,8,Summer,0,Men Shirts,2
+2017,8,Summer,0,Women Shirts,2
+2017,8,Summer,0,Men T-shirts,5
+2017,8,Summer,0,Women T-shirts,9
+2017,8,Summer,0,Skirts,10
+2017,8,Summer,0,Men Suits,1
+2017,8,Summer,0,Women Suits,3
+2017,8,Summer,0,Blouses,2
+2017,8,Summer,0,Women Jackets,0
+2017,8,Summer,0,Women Jeans,9
+2017,8,Summer,0,Men Casual Shorts,6
+2017,8,Summer,0,Men Cargo Shorts,1
+2017,8,Summer,0,Men Jeans,6
+2017,8,Summer,0,Men Jackets,0
+2017,9,Autumn,0,Frocks,7
+2017,9,Autumn,0,Women Hoodies,2
+2017,9,Autumn,0,Men Hoodies,5
+2017,9,Autumn,0,Men Shirts,2
+2017,9,Autumn,0,Women Shirts,2
+2017,9,Autumn,0,Men T-shirts,2
+2017,9,Autumn,0,Women T-shirts,5
+2017,9,Autumn,0,Skirts,8
+2017,9,Autumn,0,Men Suits,6
+2017,9,Autumn,0,Women Suits,4
+2017,9,Autumn,0,Blouses,5
+2017,9,Autumn,0,Women Jackets,0
+2017,9,Autumn,0,Women Jeans,1
+2017,9,Autumn,0,Men Casual Shorts,1
+2017,9,Autumn,0,Men Cargo Shorts,5
+2017,9,Autumn,0,Men Jeans,2
+2017,9,Autumn,0,Men Jackets,0
+2017,10,Autumn,0,Frocks,7
+2017,10,Autumn,0,Women Hoodies,4
+2017,10,Autumn,0,Men Hoodies,3
+2017,10,Autumn,0,Men Shirts,10
+2017,10,Autumn,0,Women Shirts,10
+2017,10,Autumn,0,Men T-shirts,3
+2017,10,Autumn,0,Women T-shirts,8
+2017,10,Autumn,0,Skirts,10
+2017,10,Autumn,0,Men Suits,8
+2017,10,Autumn,0,Women Suits,9
+2017,10,Autumn,0,Blouses,7
+2017,10,Autumn,0,Women Jackets,0
+2017,10,Autumn,0,Women Jeans,8
+2017,10,Autumn,0,Men Casual Shorts,9
+2017,10,Autumn,0,Men Cargo Shorts,8
+2017,10,Autumn,0,Men Jeans,9
+2017,10,Autumn,0,Men Jackets,0
+2017,11,Autumn,0,Frocks,3
+2017,11,Autumn,0,Women Hoodies,9
+2017,11,Autumn,0,Men Hoodies,7
+2017,11,Autumn,0,Men Shirts,4
+2017,11,Autumn,0,Women Shirts,5
+2017,11,Autumn,0,Men T-shirts,5
+2017,11,Autumn,0,Women T-shirts,1
+2017,11,Autumn,0,Skirts,3
+2017,11,Autumn,0,Men Suits,10
+2017,11,Autumn,0,Women Suits,4
+2017,11,Autumn,0,Blouses,4
+2017,11,Autumn,0,Women Jackets,0
+2017,11,Autumn,0,Women Jeans,4
+2017,11,Autumn,0,Men Casual Shorts,8
+2017,11,Autumn,0,Men Cargo Shorts,3
+2017,11,Autumn,0,Men Jeans,2
+2017,11,Autumn,0,Men Jackets,0
+2017,12,Winter,3,Frocks,24
+2017,12,Winter,3,Women Hoodies,120
+2017,12,Winter,3,Men Hoodies,120
+2017,12,Winter,3,Men Shirts,36
+2017,12,Winter,3,Women Shirts,28
+2017,12,Winter,3,Men T-shirts,40
+2017,12,Winter,3,Women T-shirts,20
+2017,12,Winter,3,Skirts,20
+2017,12,Winter,3,Men Suits,24
+2017,12,Winter,3,Women Suits,40
+2017,12,Winter,3,Blouses,28
+2017,12,Winter,3,Women Jackets,120
+2017,12,Winter,3,Women Jeans,20
+2017,12,Winter,3,Men Casual Shorts,40
+2017,12,Winter,3,Men Cargo Shorts,20
+2017,12,Winter,3,Men Jeans,36
+2017,12,Winter,3,Men Jackets,120
+2018,1,Winter,1,Frocks,36
+2018,1,Winter,1,Women Hoodies,72
+2018,1,Winter,1,Men Hoodies,108
+2018,1,Winter,1,Men Shirts,40
+2018,1,Winter,1,Women Shirts,36
+2018,1,Winter,1,Men T-shirts,20
+2018,1,Winter,1,Women T-shirts,40
+2018,1,Winter,1,Skirts,28
+2018,1,Winter,1,Men Suits,24
+2018,1,Winter,1,Women Suits,20
+2018,1,Winter,1,Blouses,36
+2018,1,Winter,1,Women Jackets,84
+2018,1,Winter,1,Women Jeans,20
+2018,1,Winter,1,Men Casual Shorts,24
+2018,1,Winter,1,Men Cargo Shorts,20
+2018,1,Winter,1,Men Jeans,24
+2018,1,Winter,1,Men Jackets,72
+2018,2,Winter,0,Frocks,6
+2018,2,Winter,0,Women Hoodies,15
+2018,2,Winter,0,Men Hoodies,12
+2018,2,Winter,0,Men Shirts,1
+2018,2,Winter,0,Women Shirts,7
+2018,2,Winter,0,Men T-shirts,6
+2018,2,Winter,0,Women T-shirts,5
+2018,2,Winter,0,Skirts,3
+2018,2,Winter,0,Men Suits,6
+2018,2,Winter,0,Women Suits,10
+2018,2,Winter,0,Blouses,8
+2018,2,Winter,0,Women Jackets,24
+2018,2,Winter,0,Women Jeans,7
+2018,2,Winter,0,Men Casual Shorts,10
+2018,2,Winter,0,Men Cargo Shorts,10
+2018,2,Winter,0,Men Jeans,6
+2018,2,Winter,0,Men Jackets,6
+2018,3,Spring,1,Frocks,20
+2018,3,Spring,1,Women Hoodies,24
+2018,3,Spring,1,Men Hoodies,20
+2018,3,Spring,1,Men Shirts,24
+2018,3,Spring,1,Women Shirts,28
+2018,3,Spring,1,Men T-shirts,28
+2018,3,Spring,1,Women T-shirts,36
+2018,3,Spring,1,Skirts,32
+2018,3,Spring,1,Men Suits,36
+2018,3,Spring,1,Women Suits,40
+2018,3,Spring,1,Blouses,32
+2018,3,Spring,1,Women Jackets,0
+2018,3,Spring,1,Women Jeans,28
+2018,3,Spring,1,Men Casual Shorts,20
+2018,3,Spring,1,Men Cargo Shorts,28
+2018,3,Spring,1,Men Jeans,32
+2018,3,Spring,1,Men Jackets,0
+2018,4,Spring,2,Frocks,20
+2018,4,Spring,2,Women Hoodies,20
+2018,4,Spring,2,Men Hoodies,20
+2018,4,Spring,2,Men Shirts,40
+2018,4,Spring,2,Women Shirts,32
+2018,4,Spring,2,Men T-shirts,24
+2018,4,Spring,2,Women T-shirts,32
+2018,4,Spring,2,Skirts,20
+2018,4,Spring,2,Men Suits,36
+2018,4,Spring,2,Women Suits,24
+2018,4,Spring,2,Blouses,36
+2018,4,Spring,2,Women Jackets,0
+2018,4,Spring,2,Women Jeans,20
+2018,4,Spring,2,Men Casual Shorts,32
+2018,4,Spring,2,Men Cargo Shorts,20
+2018,4,Spring,2,Men Jeans,40
+2018,4,Spring,2,Men Jackets,0
+2018,5,Spring,2,Frocks,24
+2018,5,Spring,2,Women Hoodies,20
+2018,5,Spring,2,Men Hoodies,28
+2018,5,Spring,2,Men Shirts,20
+2018,5,Spring,2,Women Shirts,32
+2018,5,Spring,2,Men T-shirts,36
+2018,5,Spring,2,Women T-shirts,32
+2018,5,Spring,2,Skirts,36
+2018,5,Spring,2,Men Suits,40
+2018,5,Spring,2,Women Suits,20
+2018,5,Spring,2,Blouses,36
+2018,5,Spring,2,Women Jackets,0
+2018,5,Spring,2,Women Jeans,20
+2018,5,Spring,2,Men Casual Shorts,32
+2018,5,Spring,2,Men Cargo Shorts,40
+2018,5,Spring,2,Men Jeans,28
+2018,5,Spring,2,Men Jackets,0
+2018,6,Summer,0,Frocks,2
+2018,6,Summer,0,Women Hoodies,3
+2018,6,Summer,0,Men Hoodies,4
+2018,6,Summer,0,Men Shirts,7
+2018,6,Summer,0,Women Shirts,5
+2018,6,Summer,0,Men T-shirts,2
+2018,6,Summer,0,Women T-shirts,2
+2018,6,Summer,0,Skirts,7
+2018,6,Summer,0,Men Suits,9
+2018,6,Summer,0,Women Suits,2
+2018,6,Summer,0,Blouses,4
+2018,6,Summer,0,Women Jackets,0
+2018,6,Summer,0,Women Jeans,2
+2018,6,Summer,0,Men Casual Shorts,2
+2018,6,Summer,0,Men Cargo Shorts,7
+2018,6,Summer,0,Men Jeans,8
+2018,6,Summer,0,Men Jackets,0
+2018,7,Summer,0,Frocks,7
+2018,7,Summer,0,Women Hoodies,2
+2018,7,Summer,0,Men Hoodies,2
+2018,7,Summer,0,Men Shirts,3
+2018,7,Summer,0,Women Shirts,6
+2018,7,Summer,0,Men T-shirts,1
+2018,7,Summer,0,Women T-shirts,4
+2018,7,Summer,0,Skirts,1
+2018,7,Summer,0,Men Suits,7
+2018,7,Summer,0,Women Suits,10
+2018,7,Summer,0,Blouses,4
+2018,7,Summer,0,Women Jackets,0
+2018,7,Summer,0,Women Jeans,8
+2018,7,Summer,0,Men Casual Shorts,2
+2018,7,Summer,0,Men Cargo Shorts,5
+2018,7,Summer,0,Men Jeans,3
+2018,7,Summer,0,Men Jackets,0
+2018,8,Summer,0,Frocks,3
+2018,8,Summer,0,Women Hoodies,10
+2018,8,Summer,0,Men Hoodies,8
+2018,8,Summer,0,Men Shirts,9
+2018,8,Summer,0,Women Shirts,3
+2018,8,Summer,0,Men T-shirts,10
+2018,8,Summer,0,Women T-shirts,5
+2018,8,Summer,0,Skirts,7
+2018,8,Summer,0,Men Suits,4
+2018,8,Summer,0,Women Suits,2
+2018,8,Summer,0,Blouses,2
+2018,8,Summer,0,Women Jackets,0
+2018,8,Summer,0,Women Jeans,7
+2018,8,Summer,0,Men Casual Shorts,10
+2018,8,Summer,0,Men Cargo Shorts,7
+2018,8,Summer,0,Men Jeans,5
+2018,8,Summer,0,Men Jackets,0
+2018,9,Autumn,0,Frocks,1
+2018,9,Autumn,0,Women Hoodies,10
+2018,9,Autumn,0,Men Hoodies,5
+2018,9,Autumn,0,Men Shirts,6
+2018,9,Autumn,0,Women Shirts,7
+2018,9,Autumn,0,Men T-shirts,4
+2018,9,Autumn,0,Women T-shirts,2
+2018,9,Autumn,0,Skirts,1
+2018,9,Autumn,0,Men Suits,6
+2018,9,Autumn,0,Women Suits,8
+2018,9,Autumn,0,Blouses,7
+2018,9,Autumn,0,Women Jackets,0
+2018,9,Autumn,0,Women Jeans,3
+2018,9,Autumn,0,Men Casual Shorts,1
+2018,9,Autumn,0,Men Cargo Shorts,10
+2018,9,Autumn,0,Men Jeans,3
+2018,9,Autumn,0,Men Jackets,0
+2018,10,Autumn,0,Frocks,6
+2018,10,Autumn,0,Women Hoodies,8
+2018,10,Autumn,0,Men Hoodies,3
+2018,10,Autumn,0,Men Shirts,10
+2018,10,Autumn,0,Women Shirts,5
+2018,10,Autumn,0,Men T-shirts,4
+2018,10,Autumn,0,Women T-shirts,3
+2018,10,Autumn,0,Skirts,4
+2018,10,Autumn,0,Men Suits,1
+2018,10,Autumn,0,Women Suits,1
+2018,10,Autumn,0,Blouses,5
+2018,10,Autumn,0,Women Jackets,0
+2018,10,Autumn,0,Women Jeans,7
+2018,10,Autumn,0,Men Casual Shorts,4
+2018,10,Autumn,0,Men Cargo Shorts,5
+2018,10,Autumn,0,Men Jeans,4
+2018,10,Autumn,0,Men Jackets,0
+2018,11,Autumn,0,Frocks,1
+2018,11,Autumn,0,Women Hoodies,6
+2018,11,Autumn,0,Men Hoodies,8
+2018,11,Autumn,0,Men Shirts,6
+2018,11,Autumn,0,Women Shirts,4
+2018,11,Autumn,0,Men T-shirts,9
+2018,11,Autumn,0,Women T-shirts,7
+2018,11,Autumn,0,Skirts,1
+2018,11,Autumn,0,Men Suits,10
+2018,11,Autumn,0,Women Suits,2
+2018,11,Autumn,0,Blouses,4
+2018,11,Autumn,0,Women Jackets,0
+2018,11,Autumn,0,Women Jeans,7
+2018,11,Autumn,0,Men Casual Shorts,10
+2018,11,Autumn,0,Men Cargo Shorts,7
+2018,11,Autumn,0,Men Jeans,8
+2018,11,Autumn,0,Men Jackets,0
+2018,12,Winter,3,Frocks,28
+2018,12,Winter,3,Women Hoodies,120
+2018,12,Winter,3,Men Hoodies,96
+2018,12,Winter,3,Men Shirts,28
+2018,12,Winter,3,Women Shirts,28
+2018,12,Winter,3,Men T-shirts,40
+2018,12,Winter,3,Women T-shirts,36
+2018,12,Winter,3,Skirts,36
+2018,12,Winter,3,Men Suits,32
+2018,12,Winter,3,Women Suits,24
+2018,12,Winter,3,Blouses,36
+2018,12,Winter,3,Women Jackets,60
+2018,12,Winter,3,Women Jeans,24
+2018,12,Winter,3,Men Casual Shorts,28
+2018,12,Winter,3,Men Cargo Shorts,24
+2018,12,Winter,3,Men Jeans,28
+2018,12,Winter,3,Men Jackets,96
+2019,1,Winter,1,Frocks,32
+2019,1,Winter,1,Women Hoodies,120
+2019,1,Winter,1,Men Hoodies,60
+2019,1,Winter,1,Men Shirts,28
+2019,1,Winter,1,Women Shirts,24
+2019,1,Winter,1,Men T-shirts,36
+2019,1,Winter,1,Women T-shirts,20
+2019,1,Winter,1,Skirts,32
+2019,1,Winter,1,Men Suits,32
+2019,1,Winter,1,Women Suits,20
+2019,1,Winter,1,Blouses,28
+2019,1,Winter,1,Women Jackets,72
+2019,1,Winter,1,Women Jeans,20
+2019,1,Winter,1,Men Casual Shorts,24
+2019,1,Winter,1,Men Cargo Shorts,40
+2019,1,Winter,1,Men Jeans,32
+2019,1,Winter,1,Men Jackets,96
+2019,2,Winter,0,Frocks,5
+2019,2,Winter,0,Women Hoodies,6
+2019,2,Winter,0,Men Hoodies,12
+2019,2,Winter,0,Men Shirts,9
+2019,2,Winter,0,Women Shirts,3
+2019,2,Winter,0,Men T-shirts,7
+2019,2,Winter,0,Women T-shirts,4
+2019,2,Winter,0,Skirts,1
+2019,2,Winter,0,Men Suits,5
+2019,2,Winter,0,Women Suits,9
+2019,2,Winter,0,Blouses,7
+2019,2,Winter,0,Women Jackets,3
+2019,2,Winter,0,Women Jeans,2
+2019,2,Winter,0,Men Casual Shorts,3
+2019,2,Winter,0,Men Cargo Shorts,2
+2019,2,Winter,0,Men Jeans,8
+2019,2,Winter,0,Men Jackets,6
+2019,3,Spring,1,Frocks,36
+2019,3,Spring,1,Women Hoodies,20
+2019,3,Spring,1,Men Hoodies,36
+2019,3,Spring,1,Men Shirts,28
+2019,3,Spring,1,Women Shirts,36
+2019,3,Spring,1,Men T-shirts,24
+2019,3,Spring,1,Women T-shirts,20
+2019,3,Spring,1,Skirts,20
+2019,3,Spring,1,Men Suits,40
+2019,3,Spring,1,Women Suits,20
+2019,3,Spring,1,Blouses,20
+2019,3,Spring,1,Women Jackets,0
+2019,3,Spring,1,Women Jeans,32
+2019,3,Spring,1,Men Casual Shorts,32
+2019,3,Spring,1,Men Cargo Shorts,28
+2019,3,Spring,1,Men Jeans,20
+2019,3,Spring,1,Men Jackets,0
+2019,4,Spring,2,Frocks,36
+2019,4,Spring,2,Women Hoodies,36
+2019,4,Spring,2,Men Hoodies,20
+2019,4,Spring,2,Men Shirts,32
+2019,4,Spring,2,Women Shirts,36
+2019,4,Spring,2,Men T-shirts,20
+2019,4,Spring,2,Women T-shirts,40
+2019,4,Spring,2,Skirts,36
+2019,4,Spring,2,Men Suits,28
+2019,4,Spring,2,Women Suits,40
+2019,4,Spring,2,Blouses,24
+2019,4,Spring,2,Women Jackets,0
+2019,4,Spring,2,Women Jeans,36
+2019,4,Spring,2,Men Casual Shorts,36
+2019,4,Spring,2,Men Cargo Shorts,36
+2019,4,Spring,2,Men Jeans,24
+2019,4,Spring,2,Men Jackets,0
+2019,5,Spring,2,Frocks,36
+2019,5,Spring,2,Women Hoodies,32
+2019,5,Spring,2,Men Hoodies,24
+2019,5,Spring,2,Men Shirts,40
+2019,5,Spring,2,Women Shirts,24
+2019,5,Spring,2,Men T-shirts,20
+2019,5,Spring,2,Women T-shirts,20
+2019,5,Spring,2,Skirts,36
+2019,5,Spring,2,Men Suits,36
+2019,5,Spring,2,Women Suits,20
+2019,5,Spring,2,Blouses,40
+2019,5,Spring,2,Women Jackets,0
+2019,5,Spring,2,Women Jeans,20
+2019,5,Spring,2,Men Casual Shorts,24
+2019,5,Spring,2,Men Cargo Shorts,32
+2019,5,Spring,2,Men Jeans,36
+2019,5,Spring,2,Men Jackets,0
+2019,6,Summer,0,Frocks,8
+2019,6,Summer,0,Women Hoodies,6
+2019,6,Summer,0,Men Hoodies,6
+2019,6,Summer,0,Men Shirts,5
+2019,6,Summer,0,Women Shirts,10
+2019,6,Summer,0,Men T-shirts,10
+2019,6,Summer,0,Women T-shirts,10
+2019,6,Summer,0,Skirts,7
+2019,6,Summer,0,Men Suits,10
+2019,6,Summer,0,Women Suits,1
+2019,6,Summer,0,Blouses,8
+2019,6,Summer,0,Women Jackets,0
+2019,6,Summer,0,Women Jeans,3
+2019,6,Summer,0,Men Casual Shorts,4
+2019,6,Summer,0,Men Cargo Shorts,5
+2019,6,Summer,0,Men Jeans,1
+2019,6,Summer,0,Men Jackets,0
+2019,7,Summer,0,Frocks,2
+2019,7,Summer,0,Women Hoodies,1
+2019,7,Summer,0,Men Hoodies,8
+2019,7,Summer,0,Men Shirts,6
+2019,7,Summer,0,Women Shirts,6
+2019,7,Summer,0,Men T-shirts,1
+2019,7,Summer,0,Women T-shirts,8
+2019,7,Summer,0,Skirts,7
+2019,7,Summer,0,Men Suits,6
+2019,7,Summer,0,Women Suits,8
+2019,7,Summer,0,Blouses,3
+2019,7,Summer,0,Women Jackets,0
+2019,7,Summer,0,Women Jeans,8
+2019,7,Summer,0,Men Casual Shorts,10
+2019,7,Summer,0,Men Cargo Shorts,8
+2019,7,Summer,0,Men Jeans,5
+2019,7,Summer,0,Men Jackets,0
+2019,8,Summer,0,Frocks,9
+2019,8,Summer,0,Women Hoodies,5
+2019,8,Summer,0,Men Hoodies,3
+2019,8,Summer,0,Men Shirts,10
+2019,8,Summer,0,Women Shirts,3
+2019,8,Summer,0,Men T-shirts,9
+2019,8,Summer,0,Women T-shirts,8
+2019,8,Summer,0,Skirts,5
+2019,8,Summer,0,Men Suits,5
+2019,8,Summer,0,Women Suits,1
+2019,8,Summer,0,Blouses,2
+2019,8,Summer,0,Women Jackets,0
+2019,8,Summer,0,Women Jeans,9
+2019,8,Summer,0,Men Casual Shorts,5
+2019,8,Summer,0,Men Cargo Shorts,2
+2019,8,Summer,0,Men Jeans,1
+2019,8,Summer,0,Men Jackets,0
+2019,9,Autumn,0,Frocks,10
+2019,9,Autumn,0,Women Hoodies,5
+2019,9,Autumn,0,Men Hoodies,2
+2019,9,Autumn,0,Men Shirts,5
+2019,9,Autumn,0,Women Shirts,1
+2019,9,Autumn,0,Men T-shirts,7
+2019,9,Autumn,0,Women T-shirts,9
+2019,9,Autumn,0,Skirts,3
+2019,9,Autumn,0,Men Suits,9
+2019,9,Autumn,0,Women Suits,3
+2019,9,Autumn,0,Blouses,2
+2019,9,Autumn,0,Women Jackets,0
+2019,9,Autumn,0,Women Jeans,10
+2019,9,Autumn,0,Men Casual Shorts,4
+2019,9,Autumn,0,Men Cargo Shorts,5
+2019,9,Autumn,0,Men Jeans,10
+2019,9,Autumn,0,Men Jackets,0
+2019,10,Autumn,0,Frocks,8
+2019,10,Autumn,0,Women Hoodies,1
+2019,10,Autumn,0,Men Hoodies,2
+2019,10,Autumn,0,Men Shirts,2
+2019,10,Autumn,0,Women Shirts,6
+2019,10,Autumn,0,Men T-shirts,5
+2019,10,Autumn,0,Women T-shirts,1
+2019,10,Autumn,0,Skirts,4
+2019,10,Autumn,0,Men Suits,6
+2019,10,Autumn,0,Women Suits,10
+2019,10,Autumn,0,Blouses,6
+2019,10,Autumn,0,Women Jackets,0
+2019,10,Autumn,0,Women Jeans,6
+2019,10,Autumn,0,Men Casual Shorts,8
+2019,10,Autumn,0,Men Cargo Shorts,8
+2019,10,Autumn,0,Men Jeans,1
+2019,10,Autumn,0,Men Jackets,0
+2019,11,Autumn,0,Frocks,3
+2019,11,Autumn,0,Women Hoodies,4
+2019,11,Autumn,0,Men Hoodies,7
+2019,11,Autumn,0,Men Shirts,2
+2019,11,Autumn,0,Women Shirts,4
+2019,11,Autumn,0,Men T-shirts,5
+2019,11,Autumn,0,Women T-shirts,2
+2019,11,Autumn,0,Skirts,3
+2019,11,Autumn,0,Men Suits,3
+2019,11,Autumn,0,Women Suits,6
+2019,11,Autumn,0,Blouses,6
+2019,11,Autumn,0,Women Jackets,0
+2019,11,Autumn,0,Women Jeans,8
+2019,11,Autumn,0,Men Casual Shorts,10
+2019,11,Autumn,0,Men Cargo Shorts,4
+2019,11,Autumn,0,Men Jeans,5
+2019,11,Autumn,0,Men Jackets,0
+2019,12,Winter,3,Frocks,36
+2019,12,Winter,3,Women Hoodies,60
+2019,12,Winter,3,Men Hoodies,120
+2019,12,Winter,3,Men Shirts,40
+2019,12,Winter,3,Women Shirts,40
+2019,12,Winter,3,Men T-shirts,32
+2019,12,Winter,3,Women T-shirts,28
+2019,12,Winter,3,Skirts,24
+2019,12,Winter,3,Men Suits,20
+2019,12,Winter,3,Women Suits,40
+2019,12,Winter,3,Blouses,36
+2019,12,Winter,3,Women Jackets,96
+2019,12,Winter,3,Women Jeans,32
+2019,12,Winter,3,Men Casual Shorts,40
+2019,12,Winter,3,Men Cargo Shorts,28
+2019,12,Winter,3,Men Jeans,40
+2019,12,Winter,3,Men Jackets,72
+2020,1,Winter,1,Frocks,24
+2020,1,Winter,1,Women Hoodies,108
+2020,1,Winter,1,Men Hoodies,120
+2020,1,Winter,1,Men Shirts,36
+2020,1,Winter,1,Women Shirts,28
+2020,1,Winter,1,Men T-shirts,24
+2020,1,Winter,1,Women T-shirts,32
+2020,1,Winter,1,Skirts,32
+2020,1,Winter,1,Men Suits,24
+2020,1,Winter,1,Women Suits,40
+2020,1,Winter,1,Blouses,32
+2020,1,Winter,1,Women Jackets,84
+2020,1,Winter,1,Women Jeans,24
+2020,1,Winter,1,Men Casual Shorts,20
+2020,1,Winter,1,Men Cargo Shorts,24
+2020,1,Winter,1,Men Jeans,24
+2020,1,Winter,1,Men Jackets,72
+2020,2,Winter,0,Frocks,6
+2020,2,Winter,0,Women Hoodies,24
+2020,2,Winter,0,Men Hoodies,9
+2020,2,Winter,0,Men Shirts,10
+2020,2,Winter,0,Women Shirts,10
+2020,2,Winter,0,Men T-shirts,5
+2020,2,Winter,0,Women T-shirts,9
+2020,2,Winter,0,Skirts,3
+2020,2,Winter,0,Men Suits,3
+2020,2,Winter,0,Women Suits,8
+2020,2,Winter,0,Blouses,7
+2020,2,Winter,0,Women Jackets,30
+2020,2,Winter,0,Women Jeans,3
+2020,2,Winter,0,Men Casual Shorts,1
+2020,2,Winter,0,Men Cargo Shorts,4
+2020,2,Winter,0,Men Jeans,6
+2020,2,Winter,0,Men Jackets,15
+2020,3,Spring,1,Frocks,20
+2020,3,Spring,1,Women Hoodies,36
+2020,3,Spring,1,Men Hoodies,24
+2020,3,Spring,1,Men Shirts,32
+2020,3,Spring,1,Women Shirts,40
+2020,3,Spring,1,Men T-shirts,24
+2020,3,Spring,1,Women T-shirts,20
+2020,3,Spring,1,Skirts,32
+2020,3,Spring,1,Men Suits,28
+2020,3,Spring,1,Women Suits,40
+2020,3,Spring,1,Blouses,36
+2020,3,Spring,1,Women Jackets,0
+2020,3,Spring,1,Women Jeans,36
+2020,3,Spring,1,Men Casual Shorts,24
+2020,3,Spring,1,Men Cargo Shorts,40
+2020,3,Spring,1,Men Jeans,20
+2020,3,Spring,1,Men Jackets,0
+2020,4,Spring,2,Frocks,28
+2020,4,Spring,2,Women Hoodies,28
+2020,4,Spring,2,Men Hoodies,40
+2020,4,Spring,2,Men Shirts,36
+2020,4,Spring,2,Women Shirts,40
+2020,4,Spring,2,Men T-shirts,24
+2020,4,Spring,2,Women T-shirts,20
+2020,4,Spring,2,Skirts,24
+2020,4,Spring,2,Men Suits,32
+2020,4,Spring,2,Women Suits,32
+2020,4,Spring,2,Blouses,32
+2020,4,Spring,2,Women Jackets,0
+2020,4,Spring,2,Women Jeans,36
+2020,4,Spring,2,Men Casual Shorts,28
+2020,4,Spring,2,Men Cargo Shorts,24
+2020,4,Spring,2,Men Jeans,36
+2020,4,Spring,2,Men Jackets,0
+2020,5,Spring,2,Frocks,28
+2020,5,Spring,2,Women Hoodies,20
+2020,5,Spring,2,Men Hoodies,40
+2020,5,Spring,2,Men Shirts,28
+2020,5,Spring,2,Women Shirts,20
+2020,5,Spring,2,Men T-shirts,20
+2020,5,Spring,2,Women T-shirts,28
+2020,5,Spring,2,Skirts,40
+2020,5,Spring,2,Men Suits,32
+2020,5,Spring,2,Women Suits,28
+2020,5,Spring,2,Blouses,20
+2020,5,Spring,2,Women Jackets,0
+2020,5,Spring,2,Women Jeans,32
+2020,5,Spring,2,Men Casual Shorts,40
+2020,5,Spring,2,Men Cargo Shorts,24
+2020,5,Spring,2,Men Jeans,36
+2020,5,Spring,2,Men Jackets,0
+2020,6,Summer,0,Frocks,1
+2020,6,Summer,0,Women Hoodies,8
+2020,6,Summer,0,Men Hoodies,7
+2020,6,Summer,0,Men Shirts,7
+2020,6,Summer,0,Women Shirts,7
+2020,6,Summer,0,Men T-shirts,5
+2020,6,Summer,0,Women T-shirts,6
+2020,6,Summer,0,Skirts,2
+2020,6,Summer,0,Men Suits,6
+2020,6,Summer,0,Women Suits,4
+2020,6,Summer,0,Blouses,7
+2020,6,Summer,0,Women Jackets,0
+2020,6,Summer,0,Women Jeans,7
+2020,6,Summer,0,Men Casual Shorts,1
+2020,6,Summer,0,Men Cargo Shorts,6
+2020,6,Summer,0,Men Jeans,7
+2020,6,Summer,0,Men Jackets,0
+2020,7,Summer,0,Frocks,9
+2020,7,Summer,0,Women Hoodies,2
+2020,7,Summer,0,Men Hoodies,1
+2020,7,Summer,0,Men Shirts,3
+2020,7,Summer,0,Women Shirts,2
+2020,7,Summer,0,Men T-shirts,2
+2020,7,Summer,0,Women T-shirts,10
+2020,7,Summer,0,Skirts,10
+2020,7,Summer,0,Men Suits,4
+2020,7,Summer,0,Women Suits,4
+2020,7,Summer,0,Blouses,2
+2020,7,Summer,0,Women Jackets,0
+2020,7,Summer,0,Women Jeans,1
+2020,7,Summer,0,Men Casual Shorts,7
+2020,7,Summer,0,Men Cargo Shorts,5
+2020,7,Summer,0,Men Jeans,1
+2020,7,Summer,0,Men Jackets,0
+2020,8,Summer,0,Frocks,9
+2020,8,Summer,0,Women Hoodies,10
+2020,8,Summer,0,Men Hoodies,8
+2020,8,Summer,0,Men Shirts,1
+2020,8,Summer,0,Women Shirts,9
+2020,8,Summer,0,Men T-shirts,5
+2020,8,Summer,0,Women T-shirts,3
+2020,8,Summer,0,Skirts,3
+2020,8,Summer,0,Men Suits,5
+2020,8,Summer,0,Women Suits,3
+2020,8,Summer,0,Blouses,7
+2020,8,Summer,0,Women Jackets,0
+2020,8,Summer,0,Women Jeans,7
+2020,8,Summer,0,Men Casual Shorts,2
+2020,8,Summer,0,Men Cargo Shorts,9
+2020,8,Summer,0,Men Jeans,1
+2020,8,Summer,0,Men Jackets,0
+2020,9,Autumn,0,Frocks,9
+2020,9,Autumn,0,Women Hoodies,5
+2020,9,Autumn,0,Men Hoodies,10
+2020,9,Autumn,0,Men Shirts,9
+2020,9,Autumn,0,Women Shirts,3
+2020,9,Autumn,0,Men T-shirts,8
+2020,9,Autumn,0,Women T-shirts,10
+2020,9,Autumn,0,Skirts,9
+2020,9,Autumn,0,Men Suits,3
+2020,9,Autumn,0,Women Suits,10
+2020,9,Autumn,0,Blouses,9
+2020,9,Autumn,0,Women Jackets,0
+2020,9,Autumn,0,Women Jeans,2
+2020,9,Autumn,0,Men Casual Shorts,6
+2020,9,Autumn,0,Men Cargo Shorts,3
+2020,9,Autumn,0,Men Jeans,8
+2020,9,Autumn,0,Men Jackets,0
+2020,10,Autumn,0,Frocks,8
+2020,10,Autumn,0,Women Hoodies,8
+2020,10,Autumn,0,Men Hoodies,9
+2020,10,Autumn,0,Men Shirts,6
+2020,10,Autumn,0,Women Shirts,2
+2020,10,Autumn,0,Men T-shirts,2
+2020,10,Autumn,0,Women T-shirts,10
+2020,10,Autumn,0,Skirts,8
+2020,10,Autumn,0,Men Suits,1
+2020,10,Autumn,0,Women Suits,4
+2020,10,Autumn,0,Blouses,6
+2020,10,Autumn,0,Women Jackets,0
+2020,10,Autumn,0,Women Jeans,2
+2020,10,Autumn,0,Men Casual Shorts,9
+2020,10,Autumn,0,Men Cargo Shorts,9
+2020,10,Autumn,0,Men Jeans,5
+2020,10,Autumn,0,Men Jackets,0
+2020,11,Autumn,0,Frocks,4
+2020,11,Autumn,0,Women Hoodies,10
+2020,11,Autumn,0,Men Hoodies,2
+2020,11,Autumn,0,Men Shirts,4
+2020,11,Autumn,0,Women Shirts,6
+2020,11,Autumn,0,Men T-shirts,8
+2020,11,Autumn,0,Women T-shirts,8
+2020,11,Autumn,0,Skirts,9
+2020,11,Autumn,0,Men Suits,8
+2020,11,Autumn,0,Women Suits,4
+2020,11,Autumn,0,Blouses,4
+2020,11,Autumn,0,Women Jackets,0
+2020,11,Autumn,0,Women Jeans,6
+2020,11,Autumn,0,Men Casual Shorts,6
+2020,11,Autumn,0,Men Cargo Shorts,10
+2020,11,Autumn,0,Men Jeans,4
+2020,11,Autumn,0,Men Jackets,0
+2020,12,Winter,3,Frocks,40
+2020,12,Winter,3,Women Hoodies,72
+2020,12,Winter,3,Men Hoodies,72
+2020,12,Winter,3,Men Shirts,36
+2020,12,Winter,3,Women Shirts,36
+2020,12,Winter,3,Men T-shirts,32
+2020,12,Winter,3,Women T-shirts,28
+2020,12,Winter,3,Skirts,32
+2020,12,Winter,3,Men Suits,28
+2020,12,Winter,3,Women Suits,40
+2020,12,Winter,3,Blouses,36
+2020,12,Winter,3,Women Jackets,60
+2020,12,Winter,3,Women Jeans,40
+2020,12,Winter,3,Men Casual Shorts,32
+2020,12,Winter,3,Men Cargo Shorts,40
+2020,12,Winter,3,Men Jeans,28
+2020,12,Winter,3,Men Jackets,72
+2021,1,Winter,1,Frocks,28
+2021,1,Winter,1,Women Hoodies,84
+2021,1,Winter,1,Men Hoodies,72
+2021,1,Winter,1,Men Shirts,40
+2021,1,Winter,1,Women Shirts,28
+2021,1,Winter,1,Men T-shirts,36
+2021,1,Winter,1,Women T-shirts,28
+2021,1,Winter,1,Skirts,20
+2021,1,Winter,1,Men Suits,36
+2021,1,Winter,1,Women Suits,32
+2021,1,Winter,1,Blouses,20
+2021,1,Winter,1,Women Jackets,96
+2021,1,Winter,1,Women Jeans,20
+2021,1,Winter,1,Men Casual Shorts,40
+2021,1,Winter,1,Men Cargo Shorts,28
+2021,1,Winter,1,Men Jeans,28
+2021,1,Winter,1,Men Jackets,72
+2021,2,Winter,0,Frocks,1
+2021,2,Winter,0,Women Hoodies,24
+2021,2,Winter,0,Men Hoodies,30
+2021,2,Winter,0,Men Shirts,1
+2021,2,Winter,0,Women Shirts,1
+2021,2,Winter,0,Men T-shirts,9
+2021,2,Winter,0,Women T-shirts,8
+2021,2,Winter,0,Skirts,3
+2021,2,Winter,0,Men Suits,8
+2021,2,Winter,0,Women Suits,3
+2021,2,Winter,0,Blouses,7
+2021,2,Winter,0,Women Jackets,9
+2021,2,Winter,0,Women Jeans,3
+2021,2,Winter,0,Men Casual Shorts,1
+2021,2,Winter,0,Men Cargo Shorts,7
+2021,2,Winter,0,Men Jeans,6
+2021,2,Winter,0,Men Jackets,24
+2021,3,Spring,1,Frocks,40
+2021,3,Spring,1,Women Hoodies,36
+2021,3,Spring,1,Men Hoodies,24
+2021,3,Spring,1,Men Shirts,28
+2021,3,Spring,1,Women Shirts,24
+2021,3,Spring,1,Men T-shirts,36
+2021,3,Spring,1,Women T-shirts,24
+2021,3,Spring,1,Skirts,28
+2021,3,Spring,1,Men Suits,32
+2021,3,Spring,1,Women Suits,40
+2021,3,Spring,1,Blouses,40
+2021,3,Spring,1,Women Jackets,0
+2021,3,Spring,1,Women Jeans,28
+2021,3,Spring,1,Men Casual Shorts,32
+2021,3,Spring,1,Men Cargo Shorts,28
+2021,3,Spring,1,Men Jeans,28
+2021,3,Spring,1,Men Jackets,0
+2021,4,Spring,2,Frocks,36
+2021,4,Spring,2,Women Hoodies,20
+2021,4,Spring,2,Men Hoodies,32
+2021,4,Spring,2,Men Shirts,24
+2021,4,Spring,2,Women Shirts,40
+2021,4,Spring,2,Men T-shirts,40
+2021,4,Spring,2,Women T-shirts,28
+2021,4,Spring,2,Skirts,36
+2021,4,Spring,2,Men Suits,36
+2021,4,Spring,2,Women Suits,24
+2021,4,Spring,2,Blouses,40
+2021,4,Spring,2,Women Jackets,0
+2021,4,Spring,2,Women Jeans,24
+2021,4,Spring,2,Men Casual Shorts,40
+2021,4,Spring,2,Men Cargo Shorts,28
+2021,4,Spring,2,Men Jeans,28
+2021,4,Spring,2,Men Jackets,0
+2021,5,Spring,2,Frocks,24
+2021,5,Spring,2,Women Hoodies,36
+2021,5,Spring,2,Men Hoodies,20
+2021,5,Spring,2,Men Shirts,36
+2021,5,Spring,2,Women Shirts,36
+2021,5,Spring,2,Men T-shirts,28
+2021,5,Spring,2,Women T-shirts,24
+2021,5,Spring,2,Skirts,36
+2021,5,Spring,2,Men Suits,40
+2021,5,Spring,2,Women Suits,24
+2021,5,Spring,2,Blouses,36
+2021,5,Spring,2,Women Jackets,0
+2021,5,Spring,2,Women Jeans,28
+2021,5,Spring,2,Men Casual Shorts,36
+2021,5,Spring,2,Men Cargo Shorts,36
+2021,5,Spring,2,Men Jeans,32
+2021,5,Spring,2,Men Jackets,0
+2021,6,Summer,0,Frocks,8
+2021,6,Summer,0,Women Hoodies,2
+2021,6,Summer,0,Men Hoodies,1
+2021,6,Summer,0,Men Shirts,6
+2021,6,Summer,0,Women Shirts,5
+2021,6,Summer,0,Men T-shirts,9
+2021,6,Summer,0,Women T-shirts,2
+2021,6,Summer,0,Skirts,4
+2021,6,Summer,0,Men Suits,10
+2021,6,Summer,0,Women Suits,10
+2021,6,Summer,0,Blouses,9
+2021,6,Summer,0,Women Jackets,0
+2021,6,Summer,0,Women Jeans,3
+2021,6,Summer,0,Men Casual Shorts,6
+2021,6,Summer,0,Men Cargo Shorts,1
+2021,6,Summer,0,Men Jeans,10
+2021,6,Summer,0,Men Jackets,0
+2021,7,Summer,0,Frocks,2
+2021,7,Summer,0,Women Hoodies,1
+2021,7,Summer,0,Men Hoodies,1
+2021,7,Summer,0,Men Shirts,7
+2021,7,Summer,0,Women Shirts,6
+2021,7,Summer,0,Men T-shirts,9
+2021,7,Summer,0,Women T-shirts,4
+2021,7,Summer,0,Skirts,4
+2021,7,Summer,0,Men Suits,10
+2021,7,Summer,0,Women Suits,6
+2021,7,Summer,0,Blouses,4
+2021,7,Summer,0,Women Jackets,0
+2021,7,Summer,0,Women Jeans,5
+2021,7,Summer,0,Men Casual Shorts,6
+2021,7,Summer,0,Men Cargo Shorts,10
+2021,7,Summer,0,Men Jeans,9
+2021,7,Summer,0,Men Jackets,0
+2021,8,Summer,0,Frocks,3
+2021,8,Summer,0,Women Hoodies,2
+2021,8,Summer,0,Men Hoodies,5
+2021,8,Summer,0,Men Shirts,7
+2021,8,Summer,0,Women Shirts,1
+2021,8,Summer,0,Men T-shirts,2
+2021,8,Summer,0,Women T-shirts,9
+2021,8,Summer,0,Skirts,4
+2021,8,Summer,0,Men Suits,2
+2021,8,Summer,0,Women Suits,5
+2021,8,Summer,0,Blouses,4
+2021,8,Summer,0,Women Jackets,0
+2021,8,Summer,0,Women Jeans,3
+2021,8,Summer,0,Men Casual Shorts,3
+2021,8,Summer,0,Men Cargo Shorts,8
+2021,8,Summer,0,Men Jeans,5
+2021,8,Summer,0,Men Jackets,0
+2021,9,Autumn,0,Frocks,7
+2021,9,Autumn,0,Women Hoodies,5
+2021,9,Autumn,0,Men Hoodies,9
+2021,9,Autumn,0,Men Shirts,9
+2021,9,Autumn,0,Women Shirts,3
+2021,9,Autumn,0,Men T-shirts,1
+2021,9,Autumn,0,Women T-shirts,9
+2021,9,Autumn,0,Skirts,7
+2021,9,Autumn,0,Men Suits,1
+2021,9,Autumn,0,Women Suits,7
+2021,9,Autumn,0,Blouses,4
+2021,9,Autumn,0,Women Jackets,0
+2021,9,Autumn,0,Women Jeans,7
+2021,9,Autumn,0,Men Casual Shorts,4
+2021,9,Autumn,0,Men Cargo Shorts,8
+2021,9,Autumn,0,Men Jeans,9
+2021,9,Autumn,0,Men Jackets,0
+2021,10,Autumn,0,Frocks,10
+2021,10,Autumn,0,Women Hoodies,6
+2021,10,Autumn,0,Men Hoodies,5
+2021,10,Autumn,0,Men Shirts,5
+2021,10,Autumn,0,Women Shirts,8
+2021,10,Autumn,0,Men T-shirts,1
+2021,10,Autumn,0,Women T-shirts,10
+2021,10,Autumn,0,Skirts,9
+2021,10,Autumn,0,Men Suits,3
+2021,10,Autumn,0,Women Suits,6
+2021,10,Autumn,0,Blouses,9
+2021,10,Autumn,0,Women Jackets,0
+2021,10,Autumn,0,Women Jeans,1
+2021,10,Autumn,0,Men Casual Shorts,4
+2021,10,Autumn,0,Men Cargo Shorts,4
+2021,10,Autumn,0,Men Jeans,7
+2021,10,Autumn,0,Men Jackets,0
+2021,11,Autumn,0,Frocks,10
+2021,11,Autumn,0,Women Hoodies,8
+2021,11,Autumn,0,Men Hoodies,5
+2021,11,Autumn,0,Men Shirts,6
+2021,11,Autumn,0,Women Shirts,10
+2021,11,Autumn,0,Men T-shirts,1
+2021,11,Autumn,0,Women T-shirts,6
+2021,11,Autumn,0,Skirts,3
+2021,11,Autumn,0,Men Suits,2
+2021,11,Autumn,0,Women Suits,6
+2021,11,Autumn,0,Blouses,1
+2021,11,Autumn,0,Women Jackets,0
+2021,11,Autumn,0,Women Jeans,7
+2021,11,Autumn,0,Men Casual Shorts,5
+2021,11,Autumn,0,Men Cargo Shorts,10
+2021,11,Autumn,0,Men Jeans,4
+2021,11,Autumn,0,Men Jackets,0
+2021,12,Winter,3,Frocks,32
+2021,12,Winter,3,Women Hoodies,84
+2021,12,Winter,3,Men Hoodies,84
+2021,12,Winter,3,Men Shirts,28
+2021,12,Winter,3,Women Shirts,40
+2021,12,Winter,3,Men T-shirts,20
+2021,12,Winter,3,Women T-shirts,40
+2021,12,Winter,3,Skirts,40
+2021,12,Winter,3,Men Suits,40
+2021,12,Winter,3,Women Suits,28
+2021,12,Winter,3,Blouses,32
+2021,12,Winter,3,Women Jackets,96
+2021,12,Winter,3,Women Jeans,20
+2021,12,Winter,3,Men Casual Shorts,40
+2021,12,Winter,3,Men Cargo Shorts,32
+2021,12,Winter,3,Men Jeans,40
+2021,12,Winter,3,Men Jackets,72
+2022,1,Winter,1,Frocks,40
+2022,1,Winter,1,Women Hoodies,60
+2022,1,Winter,1,Men Hoodies,108
+2022,1,Winter,1,Men Shirts,36
+2022,1,Winter,1,Women Shirts,28
+2022,1,Winter,1,Men T-shirts,40
+2022,1,Winter,1,Women T-shirts,20
+2022,1,Winter,1,Skirts,20
+2022,1,Winter,1,Men Suits,40
+2022,1,Winter,1,Women Suits,28
+2022,1,Winter,1,Blouses,24
+2022,1,Winter,1,Women Jackets,60
+2022,1,Winter,1,Women Jeans,36
+2022,1,Winter,1,Men Casual Shorts,40
+2022,1,Winter,1,Men Cargo Shorts,24
+2022,1,Winter,1,Men Jeans,28
+2022,1,Winter,1,Men Jackets,96
+2022,2,Winter,0,Frocks,1
+2022,2,Winter,0,Women Hoodies,18
+2022,2,Winter,0,Men Hoodies,15
+2022,2,Winter,0,Men Shirts,4
+2022,2,Winter,0,Women Shirts,5
+2022,2,Winter,0,Men T-shirts,5
+2022,2,Winter,0,Women T-shirts,8
+2022,2,Winter,0,Skirts,10
+2022,2,Winter,0,Men Suits,8
+2022,2,Winter,0,Women Suits,4
+2022,2,Winter,0,Blouses,8
+2022,2,Winter,0,Women Jackets,12
+2022,2,Winter,0,Women Jeans,6
+2022,2,Winter,0,Men Casual Shorts,6
+2022,2,Winter,0,Men Cargo Shorts,8
+2022,2,Winter,0,Men Jeans,2
+2022,2,Winter,0,Men Jackets,6
+2022,3,Spring,1,Frocks,32
+2022,3,Spring,1,Women Hoodies,32
+2022,3,Spring,1,Men Hoodies,24
+2022,3,Spring,1,Men Shirts,20
+2022,3,Spring,1,Women Shirts,28
+2022,3,Spring,1,Men T-shirts,36
+2022,3,Spring,1,Women T-shirts,24
+2022,3,Spring,1,Skirts,20
+2022,3,Spring,1,Men Suits,28
+2022,3,Spring,1,Women Suits,20
+2022,3,Spring,1,Blouses,40
+2022,3,Spring,1,Women Jackets,0
+2022,3,Spring,1,Women Jeans,28
+2022,3,Spring,1,Men Casual Shorts,20
+2022,3,Spring,1,Men Cargo Shorts,36
+2022,3,Spring,1,Men Jeans,40
+2022,3,Spring,1,Men Jackets,0
+2022,4,Spring,2,Frocks,40
+2022,4,Spring,2,Women Hoodies,20
+2022,4,Spring,2,Men Hoodies,32
+2022,4,Spring,2,Men Shirts,40
+2022,4,Spring,2,Women Shirts,36
+2022,4,Spring,2,Men T-shirts,36
+2022,4,Spring,2,Women T-shirts,20
+2022,4,Spring,2,Skirts,36
+2022,4,Spring,2,Men Suits,36
+2022,4,Spring,2,Women Suits,40
+2022,4,Spring,2,Blouses,32
+2022,4,Spring,2,Women Jackets,0
+2022,4,Spring,2,Women Jeans,32
+2022,4,Spring,2,Men Casual Shorts,36
+2022,4,Spring,2,Men Cargo Shorts,32
+2022,4,Spring,2,Men Jeans,28
+2022,4,Spring,2,Men Jackets,0
+2022,5,Spring,2,Frocks,28
+2022,5,Spring,2,Women Hoodies,32
+2022,5,Spring,2,Men Hoodies,28
+2022,5,Spring,2,Men Shirts,32
+2022,5,Spring,2,Women Shirts,40
+2022,5,Spring,2,Men T-shirts,24
+2022,5,Spring,2,Women T-shirts,20
+2022,5,Spring,2,Skirts,40
+2022,5,Spring,2,Men Suits,32
+2022,5,Spring,2,Women Suits,20
+2022,5,Spring,2,Blouses,24
+2022,5,Spring,2,Women Jackets,0
+2022,5,Spring,2,Women Jeans,24
+2022,5,Spring,2,Men Casual Shorts,32
+2022,5,Spring,2,Men Cargo Shorts,40
+2022,5,Spring,2,Men Jeans,32
+2022,5,Spring,2,Men Jackets,0
+2022,6,Summer,0,Frocks,10
+2022,6,Summer,0,Women Hoodies,5
+2022,6,Summer,0,Men Hoodies,4
+2022,6,Summer,0,Men Shirts,9
+2022,6,Summer,0,Women Shirts,6
+2022,6,Summer,0,Men T-shirts,10
+2022,6,Summer,0,Women T-shirts,4
+2022,6,Summer,0,Skirts,1
+2022,6,Summer,0,Men Suits,3
+2022,6,Summer,0,Women Suits,10
+2022,6,Summer,0,Blouses,3
+2022,6,Summer,0,Women Jackets,0
+2022,6,Summer,0,Women Jeans,2
+2022,6,Summer,0,Men Casual Shorts,3
+2022,6,Summer,0,Men Cargo Shorts,5
+2022,6,Summer,0,Men Jeans,7
+2022,6,Summer,0,Men Jackets,0
+2022,7,Summer,0,Frocks,9
+2022,7,Summer,0,Women Hoodies,2
+2022,7,Summer,0,Men Hoodies,6
+2022,7,Summer,0,Men Shirts,6
+2022,7,Summer,0,Women Shirts,1
+2022,7,Summer,0,Men T-shirts,8
+2022,7,Summer,0,Women T-shirts,7
+2022,7,Summer,0,Skirts,2
+2022,7,Summer,0,Men Suits,9
+2022,7,Summer,0,Women Suits,5
+2022,7,Summer,0,Blouses,10
+2022,7,Summer,0,Women Jackets,0
+2022,7,Summer,0,Women Jeans,8
+2022,7,Summer,0,Men Casual Shorts,2
+2022,7,Summer,0,Men Cargo Shorts,1
+2022,7,Summer,0,Men Jeans,10
+2022,7,Summer,0,Men Jackets,0
+2022,8,Summer,0,Frocks,1
+2022,8,Summer,0,Women Hoodies,1
+2022,8,Summer,0,Men Hoodies,6
+2022,8,Summer,0,Men Shirts,10
+2022,8,Summer,0,Women Shirts,3
+2022,8,Summer,0,Men T-shirts,8
+2022,8,Summer,0,Women T-shirts,6
+2022,8,Summer,0,Skirts,2
+2022,8,Summer,0,Men Suits,6
+2022,8,Summer,0,Women Suits,9
+2022,8,Summer,0,Blouses,3
+2022,8,Summer,0,Women Jackets,0
+2022,8,Summer,0,Women Jeans,9
+2022,8,Summer,0,Men Casual Shorts,2
+2022,8,Summer,0,Men Cargo Shorts,7
+2022,8,Summer,0,Men Jeans,5
+2022,8,Summer,0,Men Jackets,0
+2022,9,Autumn,0,Frocks,2
+2022,9,Autumn,0,Women Hoodies,5
+2022,9,Autumn,0,Men Hoodies,10
+2022,9,Autumn,0,Men Shirts,10
+2022,9,Autumn,0,Women Shirts,9
+2022,9,Autumn,0,Men T-shirts,7
+2022,9,Autumn,0,Women T-shirts,4
+2022,9,Autumn,0,Skirts,7
+2022,9,Autumn,0,Men Suits,9
+2022,9,Autumn,0,Women Suits,4
+2022,9,Autumn,0,Blouses,3
+2022,9,Autumn,0,Women Jackets,0
+2022,9,Autumn,0,Women Jeans,8
+2022,9,Autumn,0,Men Casual Shorts,6
+2022,9,Autumn,0,Men Cargo Shorts,5
+2022,9,Autumn,0,Men Jeans,7
+2022,9,Autumn,0,Men Jackets,0
+2022,10,Autumn,0,Frocks,5
+2022,10,Autumn,0,Women Hoodies,9
+2022,10,Autumn,0,Men Hoodies,2
+2022,10,Autumn,0,Men Shirts,2
+2022,10,Autumn,0,Women Shirts,2
+2022,10,Autumn,0,Men T-shirts,7
+2022,10,Autumn,0,Women T-shirts,4
+2022,10,Autumn,0,Skirts,9
+2022,10,Autumn,0,Men Suits,2
+2022,10,Autumn,0,Women Suits,8
+2022,10,Autumn,0,Blouses,7
+2022,10,Autumn,0,Women Jackets,0
+2022,10,Autumn,0,Women Jeans,2
+2022,10,Autumn,0,Men Casual Shorts,4
+2022,10,Autumn,0,Men Cargo Shorts,8
+2022,10,Autumn,0,Men Jeans,4
+2022,10,Autumn,0,Men Jackets,0
+2022,11,Autumn,0,Frocks,2
+2022,11,Autumn,0,Women Hoodies,10
+2022,11,Autumn,0,Men Hoodies,6
+2022,11,Autumn,0,Men Shirts,5
+2022,11,Autumn,0,Women Shirts,2
+2022,11,Autumn,0,Men T-shirts,5
+2022,11,Autumn,0,Women T-shirts,2
+2022,11,Autumn,0,Skirts,9
+2022,11,Autumn,0,Men Suits,3
+2022,11,Autumn,0,Women Suits,7
+2022,11,Autumn,0,Blouses,5
+2022,11,Autumn,0,Women Jackets,0
+2022,11,Autumn,0,Women Jeans,2
+2022,11,Autumn,0,Men Casual Shorts,7
+2022,11,Autumn,0,Men Cargo Shorts,2
+2022,11,Autumn,0,Men Jeans,10
+2022,11,Autumn,0,Men Jackets,0
+2022,12,Winter,3,Frocks,28
+2022,12,Winter,3,Women Hoodies,84
+2022,12,Winter,3,Men Hoodies,120
+2022,12,Winter,3,Men Shirts,36
+2022,12,Winter,3,Women Shirts,40
+2022,12,Winter,3,Men T-shirts,24
+2022,12,Winter,3,Women T-shirts,36
+2022,12,Winter,3,Skirts,20
+2022,12,Winter,3,Men Suits,24
+2022,12,Winter,3,Women Suits,40
+2022,12,Winter,3,Blouses,24
+2022,12,Winter,3,Women Jackets,60
+2022,12,Winter,3,Women Jeans,40
+2022,12,Winter,3,Men Casual Shorts,28
+2022,12,Winter,3,Men Cargo Shorts,20
+2022,12,Winter,3,Men Jeans,32
+2022,12,Winter,3,Men Jackets,120
+2023,1,Winter,1,Frocks,36
+2023,1,Winter,1,Women Hoodies,108
+2023,1,Winter,1,Men Hoodies,72
+2023,1,Winter,1,Men Shirts,40
+2023,1,Winter,1,Women Shirts,24
+2023,1,Winter,1,Men T-shirts,40
+2023,1,Winter,1,Women T-shirts,36
+2023,1,Winter,1,Skirts,20
+2023,1,Winter,1,Men Suits,20
+2023,1,Winter,1,Women Suits,36
+2023,1,Winter,1,Blouses,32
+2023,1,Winter,1,Women Jackets,108
+2023,1,Winter,1,Women Jeans,20
+2023,1,Winter,1,Men Casual Shorts,24
+2023,1,Winter,1,Men Cargo Shorts,28
+2023,1,Winter,1,Men Jeans,40
+2023,1,Winter,1,Men Jackets,84
+2023,2,Winter,0,Frocks,2
+2023,2,Winter,0,Women Hoodies,21
+2023,2,Winter,0,Men Hoodies,12
+2023,2,Winter,0,Men Shirts,8
+2023,2,Winter,0,Women Shirts,1
+2023,2,Winter,0,Men T-shirts,1
+2023,2,Winter,0,Women T-shirts,6
+2023,2,Winter,0,Skirts,6
+2023,2,Winter,0,Men Suits,6
+2023,2,Winter,0,Women Suits,6
+2023,2,Winter,0,Blouses,6
+2023,2,Winter,0,Women Jackets,18
+2023,2,Winter,0,Women Jeans,4
+2023,2,Winter,0,Men Casual Shorts,10
+2023,2,Winter,0,Men Cargo Shorts,2
+2023,2,Winter,0,Men Jeans,5
+2023,2,Winter,0,Men Jackets,18
+2023,3,Spring,1,Frocks,36
+2023,3,Spring,1,Women Hoodies,36
+2023,3,Spring,1,Men Hoodies,24
+2023,3,Spring,1,Men Shirts,32
+2023,3,Spring,1,Women Shirts,28
+2023,3,Spring,1,Men T-shirts,24
+2023,3,Spring,1,Women T-shirts,20
+2023,3,Spring,1,Skirts,40
+2023,3,Spring,1,Men Suits,28
+2023,3,Spring,1,Women Suits,24
+2023,3,Spring,1,Blouses,40
+2023,3,Spring,1,Women Jackets,0
+2023,3,Spring,1,Women Jeans,20
+2023,3,Spring,1,Men Casual Shorts,24
+2023,3,Spring,1,Men Cargo Shorts,28
+2023,3,Spring,1,Men Jeans,28
+2023,3,Spring,1,Men Jackets,0
+2023,4,Spring,2,Frocks,24
+2023,4,Spring,2,Women Hoodies,20
+2023,4,Spring,2,Men Hoodies,40
+2023,4,Spring,2,Men Shirts,32
+2023,4,Spring,2,Women Shirts,20
+2023,4,Spring,2,Men T-shirts,40
+2023,4,Spring,2,Women T-shirts,28
+2023,4,Spring,2,Skirts,20
+2023,4,Spring,2,Men Suits,24
+2023,4,Spring,2,Women Suits,28
+2023,4,Spring,2,Blouses,40
+2023,4,Spring,2,Women Jackets,0
+2023,4,Spring,2,Women Jeans,40
+2023,4,Spring,2,Men Casual Shorts,24
+2023,4,Spring,2,Men Cargo Shorts,24
+2023,4,Spring,2,Men Jeans,28
+2023,4,Spring,2,Men Jackets,0

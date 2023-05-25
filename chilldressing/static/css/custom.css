@@ -77,3 +77,30 @@ ul.thumb li img {
     height: 80px;
     border: 1px solid gray;
 }
+
+.table.cart_detail_report ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.table.cart_detail_report th {
+    white-space: nowrap;
+}
+
+.table.cart_detail_report td {
+    text-align: left;
+    white-space: nowrap;
+}
+
+/* Colors */
+.text-blue {
+    color: #3167eb;
+}
+
+.text-blue:hover {
+    color: #1244bd;
+}
+
+#phone-error {
+    color: red;
+}

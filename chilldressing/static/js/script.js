@@ -61,3 +61,41 @@ $(document).ready(function () {
 setTimeout(function () {
     $('.message').fadeOut('slow')
 }, 3000)
+
+function validatePhoneNumber() {
+    var phoneNumberInput = document.getElementById("id_phone_number");
+    var phoneNumber = phoneNumberInput.value.trim();
+
+    var phoneNumberRegex = /^\+\d{11}$/; // Adjust the regular expression based on your desired phone number format
+
+    if (!phoneNumber.match(phoneNumberRegex)) {
+        var phoneErrorElement = document.getElementById("phone-error");
+        phoneErrorElement.innerHTML = "Please enter a valid phone number.";
+
+        // Apply fade-out effect
+        phoneErrorElement.style.opacity = 1;
+        setTimeout(function () {
+            fadeOut(phoneErrorElement);
+        }, 2000);
+
+        return false;
+    }
+
+    document.getElementById("phone-error").innerHTML = ""; // Clear error message
+    return true;
+}
+
+function fadeOut(element) {
+    var opacity = 1;
+    var interval = setInterval(function () {
+        if (opacity > 0) {
+            opacity -= 0.1;
+            element.style.opacity = opacity;
+        } else {
+            clearInterval(interval);
+            element.style.opacity = 0;
+            element.innerHTML = ""; // Clear error message after fade-out
+        }
+    }, 100);
+}
+
